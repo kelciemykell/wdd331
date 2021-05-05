@@ -1,0 +1,15 @@
+2020/11/09-10:33:38.572 31e7b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_free-url-shortener.rb.gy_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/09-10:33:38.572 31e7b Recovering log #7
+2020/11/09-10:33:38.572 31e7b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_free-url-shortener.rb.gy_0.indexeddb.leveldb/000007.log 
+2020/11/09-10:34:45.526 3345f Level-0 table #12: started
+2020/11/09-10:34:45.538 3345f Level-0 table #12: 564 bytes OK
+2020/11/09-10:34:45.569 3345f Delete type=0 #7
+2020/11/09-10:34:45.571 3345f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/09-10:34:45.571 3345f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/' @ 86 : 1
+2020/11/09-10:34:45.571 3345f Compacting 1@1 + 1@2 files
+2020/11/09-10:34:45.580 3345f Generated table #13@1: 20 keys, 672 bytes
+2020/11/09-10:34:45.580 3345f Compacted 1@1 + 1@2 files => 672 bytes
+2020/11/09-10:34:45.612 3345f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/09-10:34:45.613 3345f Delete type=2 #12
+2020/11/09-10:34:45.614 3345f Delete type=2 #9
+2020/11/09-10:34:45.614 3345f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0b\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/' @ 86 : 1 .. (end); will stop at (end)

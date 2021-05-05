@@ -1,0 +1,5 @@
+2020/05/29-10:34:25.205 3ae7f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.entrepreneur.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/29-10:34:41.625 2000f Level-0 table #5: started
+2020/05/29-10:34:41.656 2000f Level-0 table #5: 1630009 bytes OK
+2020/05/29-10:34:41.686 2000f Delete type=0 #3
+2020/05/29-10:34:41.691 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

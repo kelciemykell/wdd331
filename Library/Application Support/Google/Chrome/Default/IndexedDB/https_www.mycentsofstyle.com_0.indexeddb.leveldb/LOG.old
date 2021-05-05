@@ -1,0 +1,15 @@
+2020/12/10-12:41:12.929 4122b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.mycentsofstyle.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-12:41:12.930 4122b Recovering log #115
+2020/12/10-12:41:12.930 4122b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.mycentsofstyle.com_0.indexeddb.leveldb/000115.log 
+2020/12/10-12:41:24.652 50d67 Level-0 table #120: started
+2020/12/10-12:41:24.676 50d67 Level-0 table #120: 452 bytes OK
+2020/12/10-12:41:24.708 50d67 Delete type=0 #115
+2020/12/10-12:41:24.714 50d67 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/10-12:41:24.714 50d67 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00_\x00_\x00s\x00a\x00k' @ 515 : 1
+2020/12/10-12:41:24.714 50d67 Compacting 1@1 + 1@2 files
+2020/12/10-12:41:24.724 50d67 Generated table #121@1: 18 keys, 571 bytes
+2020/12/10-12:41:24.724 50d67 Compacted 1@1 + 1@2 files => 571 bytes
+2020/12/10-12:41:24.751 50d67 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/10-12:41:24.752 50d67 Delete type=2 #117
+2020/12/10-12:41:24.752 50d67 Delete type=2 #120
+2020/12/10-12:41:24.754 50d67 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00_\x00_\x00s\x00a\x00k' @ 515 : 1 .. (end); will stop at (end)

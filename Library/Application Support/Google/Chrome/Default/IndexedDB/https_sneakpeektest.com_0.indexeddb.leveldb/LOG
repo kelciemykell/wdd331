@@ -1,0 +1,5 @@
+2020/10/07-13:41:40.962 22c57 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_sneakpeektest.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/07-13:41:46.123 25193 Level-0 table #5: started
+2020/10/07-13:41:46.145 25193 Level-0 table #5: 1018 bytes OK
+2020/10/07-13:41:46.176 25193 Delete type=0 #3
+2020/10/07-13:41:46.178 25193 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

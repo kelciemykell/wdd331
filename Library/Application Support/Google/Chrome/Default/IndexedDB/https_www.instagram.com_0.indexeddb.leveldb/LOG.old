@@ -1,0 +1,23 @@
+2020/08/18-10:24:36.762 5634b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/18-10:24:36.763 5634b Recovering log #22
+2020/08/18-10:24:36.773 5634b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000022.log 
+2020/08/18-10:24:38.825 1a03b Level-0 table #26: started
+2020/08/18-10:24:38.846 1a03b Level-0 table #26: 1230295 bytes OK
+2020/08/18-10:24:38.867 1a03b Delete type=0 #22
+2020/08/18-10:24:38.869 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x00u\x00s\x00e\x00r\x00s\x00.\x00u\x00s\x00e\x00r\x00s' @ 2426 : 1
+2020/08/18-10:24:38.869 1a03b Compacting 2@0 + 1@1 files
+2020/08/18-10:24:38.887 1a03b Generated table #27@0: 518 keys, 79937 bytes
+2020/08/18-10:24:38.887 1a03b Compacted 2@0 + 1@1 files => 79937 bytes
+2020/08/18-10:24:38.917 1a03b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/18-10:24:38.917 1a03b Delete type=2 #21
+2020/08/18-10:24:38.924 1a03b Delete type=2 #23
+2020/08/18-10:24:38.924 1a03b Delete type=2 #26
+2020/08/18-10:24:38.925 1a03b Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x0b\x00u\x00s\x00e\x00r\x00s\x00.\x00u\x00s\x00e\x00r\x00s' @ 2426 : 1 .. (end); will stop at (end)
+2020/08/18-10:24:38.925 1a03b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 3068 : 1
+2020/08/18-10:24:38.925 1a03b Compacting 1@1 + 1@2 files
+2020/08/18-10:24:38.937 1a03b Generated table #28@1: 40 keys, 75820 bytes
+2020/08/18-10:24:38.937 1a03b Compacted 1@1 + 1@2 files => 75820 bytes
+2020/08/18-10:24:38.962 1a03b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/18-10:24:38.963 1a03b Delete type=2 #27
+2020/08/18-10:24:38.963 1a03b Delete type=2 #18
+2020/08/18-10:24:38.964 1a03b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 3068 : 1 .. (end); will stop at (end)

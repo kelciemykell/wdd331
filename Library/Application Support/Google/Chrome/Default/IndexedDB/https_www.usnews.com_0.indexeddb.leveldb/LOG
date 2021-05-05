@@ -1,0 +1,8 @@
+2020/07/13-13:16:40.316 917b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.usnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/13-13:16:40.317 917b Recovering log #4
+2020/07/13-13:16:40.317 917b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.usnews.com_0.indexeddb.leveldb/000004.log 
+2020/07/13-13:16:43.072 1a03b Level-0 table #8: started
+2020/07/13-13:16:43.072 1a03b Level-0 table #8: 0 bytes OK
+2020/07/13-13:16:43.107 1a03b Delete type=0 #4
+2020/07/13-13:16:43.110 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/13-13:16:43.111 1a03b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

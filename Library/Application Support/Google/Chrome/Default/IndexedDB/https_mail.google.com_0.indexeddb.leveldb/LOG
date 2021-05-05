@@ -1,0 +1,15 @@
+2021/04/11-09:03:59.262 2fb1b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/11-09:03:59.263 2fb1b Recovering log #7
+2021/04/11-09:03:59.264 2fb1b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2021/04/15-13:49:15.636 19a5b Level-0 table #12: started
+2021/04/15-13:49:15.654 19a5b Level-0 table #12: 442696 bytes OK
+2021/04/15-13:49:15.683 19a5b Delete type=0 #7
+2021/04/15-13:49:15.691 19a5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/15-13:49:15.691 19a5b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x00\x00\x05' @ 1009 : 1
+2021/04/15-13:49:15.691 19a5b Compacting 1@1 + 1@2 files
+2021/04/15-13:49:15.706 19a5b Generated table #13@1: 89 keys, 15521 bytes
+2021/04/15-13:49:15.706 19a5b Compacted 1@1 + 1@2 files => 15521 bytes
+2021/04/15-13:49:15.737 19a5b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/15-13:49:15.737 19a5b Delete type=2 #12
+2021/04/15-13:49:15.738 19a5b Delete type=2 #9
+2021/04/15-13:49:15.739 19a5b Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 1009 : 1 .. (end); will stop at (end)

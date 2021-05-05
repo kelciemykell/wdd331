@@ -1,0 +1,15 @@
+2020/11/27-13:11:20.210 41867 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_aax-us-pdx.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-13:11:20.210 41867 Recovering log #47
+2020/11/27-13:11:20.210 41867 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_aax-us-pdx.amazon-adsystem.com_0.indexeddb.leveldb/000047.log 
+2020/11/27-13:11:34.077 41867 Level-0 table #51: started
+2020/11/27-13:11:34.095 41867 Level-0 table #51: 190 bytes OK
+2020/11/27-13:11:34.125 41867 Delete type=0 #47
+2020/11/27-13:11:34.125 41867 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/27-13:11:34.125 3ba43 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 14 : 1
+2020/11/27-13:11:34.125 3ba43 Compacting 1@1 + 1@2 files
+2020/11/27-13:11:34.136 3ba43 Generated table #52@1: 8 keys, 378 bytes
+2020/11/27-13:11:34.136 3ba43 Compacted 1@1 + 1@2 files => 378 bytes
+2020/11/27-13:11:34.165 3ba43 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/27-13:11:34.166 3ba43 Delete type=2 #45
+2020/11/27-13:11:34.168 3ba43 Delete type=2 #51
+2020/11/27-13:11:34.169 3ba43 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 14 : 1 .. (end); will stop at (end)

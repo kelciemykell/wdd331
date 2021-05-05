@@ -1,0 +1,8 @@
+2021/05/03-11:24:27.066 2726f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-175159
+2021/05/03-11:24:27.071 2726f Recovering log #198627
+2021/05/03-11:24:27.071 2726f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/198627.log 
+2021/05/03-11:24:59.655 2726f Level-0 table #198631: started
+2021/05/03-11:24:59.655 2726f Level-0 table #198631: 0 bytes OK
+2021/05/03-11:24:59.686 2726f Delete type=0 #198627
+2021/05/03-11:24:59.687 2726f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/03-11:24:59.688 2726f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

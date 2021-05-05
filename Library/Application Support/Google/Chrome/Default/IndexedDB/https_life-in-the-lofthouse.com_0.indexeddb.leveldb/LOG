@@ -1,0 +1,5 @@
+2020/05/27-10:04:48.846 2bc23 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_life-in-the-lofthouse.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/27-10:05:14.945 2000f Level-0 table #5: started
+2020/05/27-10:05:14.962 2000f Level-0 table #5: 360 bytes OK
+2020/05/27-10:05:15.015 2000f Delete type=0 #3
+2020/05/27-10:05:15.016 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

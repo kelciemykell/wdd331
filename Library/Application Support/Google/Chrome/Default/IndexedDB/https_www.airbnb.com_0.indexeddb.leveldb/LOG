@@ -1,0 +1,8 @@
+2020/07/10-11:57:45.393 3df43 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/10-11:57:45.394 3df43 Recovering log #18
+2020/07/10-11:57:45.394 3df43 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/000018.log 
+2020/07/10-11:58:17.482 e567 Level-0 table #23: started
+2020/07/10-11:58:17.483 e567 Level-0 table #23: 0 bytes OK
+2020/07/10-11:58:17.516 e567 Delete type=0 #18
+2020/07/10-11:58:17.519 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/10-11:58:17.519 e567 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

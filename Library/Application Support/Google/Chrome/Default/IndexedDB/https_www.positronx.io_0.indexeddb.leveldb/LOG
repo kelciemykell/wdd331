@@ -1,0 +1,8 @@
+2021/04/20-10:48:44.915 23683 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.positronx.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-10:48:44.916 23683 Recovering log #10
+2021/04/20-10:48:44.916 23683 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.positronx.io_0.indexeddb.leveldb/000010.log 
+2021/04/20-10:49:01.977 386bb Level-0 table #14: started
+2021/04/20-10:49:01.977 386bb Level-0 table #14: 0 bytes OK
+2021/04/20-10:49:02.014 386bb Delete type=0 #10
+2021/04/20-10:49:02.017 386bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/20-10:49:02.017 386bb Manual compaction at level-1 from (begin) .. (end); will stop at (end)

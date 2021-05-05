@@ -1,0 +1,5 @@
+2020/08/12-16:05:22.204 23a3f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_apx-security.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-16:05:25.342 1a03b Level-0 table #5: started
+2020/08/12-16:05:25.352 1a03b Level-0 table #5: 1346 bytes OK
+2020/08/12-16:05:25.387 1a03b Delete type=0 #3
+2020/08/12-16:05:25.392 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

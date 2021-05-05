@@ -1,0 +1,15 @@
+2020/11/09-09:54:00.125 24d2f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_milk.procon.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/09-09:54:00.125 24d2f Recovering log #13
+2020/11/09-09:54:00.125 24d2f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_milk.procon.org_0.indexeddb.leveldb/000013.log 
+2020/11/09-09:54:30.223 34813 Level-0 table #17: started
+2020/11/09-09:54:30.243 34813 Level-0 table #17: 190 bytes OK
+2020/11/09-09:54:30.277 34813 Delete type=0 #13
+2020/11/09-09:54:30.277 34813 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/09-09:54:30.277 34813 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/11/09-09:54:30.277 34813 Compacting 1@1 + 1@2 files
+2020/11/09-09:54:30.288 34813 Generated table #18@1: 8 keys, 348 bytes
+2020/11/09-09:54:30.288 34813 Compacted 1@1 + 1@2 files => 348 bytes
+2020/11/09-09:54:30.317 34813 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/09-09:54:30.317 34813 Delete type=2 #17
+2020/11/09-09:54:30.318 34813 Delete type=2 #5
+2020/11/09-09:54:30.319 34813 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

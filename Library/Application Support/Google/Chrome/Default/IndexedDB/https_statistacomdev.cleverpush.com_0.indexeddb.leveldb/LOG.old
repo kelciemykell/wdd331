@@ -1,0 +1,15 @@
+2020/11/23-11:37:05.244 40cbf Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_statistacomdev.cleverpush.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-11:37:05.245 40cbf Recovering log #7
+2020/11/23-11:37:05.245 40cbf Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_statistacomdev.cleverpush.com_0.indexeddb.leveldb/000007.log 
+2020/11/23-11:37:24.910 34d0f Level-0 table #11: started
+2020/11/23-11:37:24.921 34d0f Level-0 table #11: 190 bytes OK
+2020/11/23-11:37:24.951 34d0f Delete type=0 #7
+2020/11/23-11:37:24.953 34d0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-11:37:24.953 34d0f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 300 : 1
+2020/11/23-11:37:24.953 34d0f Compacting 1@1 + 1@2 files
+2020/11/23-11:37:24.964 34d0f Generated table #12@1: 87 keys, 1410 bytes
+2020/11/23-11:37:24.964 34d0f Compacted 1@1 + 1@2 files => 1410 bytes
+2020/11/23-11:37:24.990 34d0f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-11:37:24.990 34d0f Delete type=2 #5
+2020/11/23-11:37:24.991 34d0f Delete type=2 #11
+2020/11/23-11:37:24.992 34d0f Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 300 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/11/30-12:44:13.611 4c577 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.latimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-12:44:19.077 4c577 Level-0 table #5: started
+2020/11/30-12:44:19.109 4c577 Level-0 table #5: 340 bytes OK
+2020/11/30-12:44:19.141 4c577 Delete type=0 #3
+2020/11/30-12:44:19.151 4c577 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

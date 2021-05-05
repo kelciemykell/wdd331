@@ -1,0 +1,15 @@
+2020/10/01-15:27:01.494 34437 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.grow.me_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-15:27:01.494 34437 Recovering log #4
+2020/10/01-15:27:01.495 34437 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.grow.me_0.indexeddb.leveldb/000004.log 
+2020/10/01-15:35:29.814 b51b Level-0 table #8: started
+2020/10/01-15:35:29.827 b51b Level-0 table #8: 498 bytes OK
+2020/10/01-15:35:29.850 b51b Delete type=0 #4
+2020/10/01-15:35:29.854 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-15:35:29.854 b51b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x008\x009\x005\x009\x008\x008\x001\x006\x004' @ 63 : 1
+2020/10/01-15:35:29.854 b51b Compacting 1@1 + 1@2 files
+2020/10/01-15:35:29.865 b51b Generated table #9@1: 17 keys, 520 bytes
+2020/10/01-15:35:29.866 b51b Compacted 1@1 + 1@2 files => 520 bytes
+2020/10/01-15:35:29.892 b51b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/01-15:35:29.893 b51b Delete type=2 #5
+2020/10/01-15:35:29.893 b51b Delete type=2 #8
+2020/10/01-15:35:29.894 b51b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x008\x009\x005\x009\x008\x008\x001\x006\x004' @ 63 : 1 .. (end); will stop at (end)

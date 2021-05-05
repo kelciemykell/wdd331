@@ -1,0 +1,8 @@
+2020/12/03-13:00:57.313 1a55b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-13:00:57.313 1a55b Recovering log #64
+2020/12/03-13:00:57.313 1a55b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000064.log 
+2020/12/03-13:01:04.720 3ec2f Level-0 table #68: started
+2020/12/03-13:01:04.720 3ec2f Level-0 table #68: 0 bytes OK
+2020/12/03-13:01:04.754 3ec2f Delete type=0 #64
+2020/12/03-13:01:04.758 3ec2f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-13:01:04.758 3ec2f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

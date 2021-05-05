@@ -1,0 +1,27 @@
+2020/11/20-09:34:40.092 4671f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/20-09:34:40.092 4671f Recovering log #4
+2020/11/20-09:34:40.092 4671f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/000004.log 
+2020/11/20-09:34:41.689 4671f Level-0 table #8: started
+2020/11/20-09:34:41.702 4671f Level-0 table #8: 860 bytes OK
+2020/11/20-09:34:41.752 4671f Delete type=0 #4
+2020/11/20-09:34:41.757 4671f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/20-09:34:41.757 4671f Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 301 : 0
+2020/11/20-09:34:41.757 4671f Compacting 1@1 + 1@2 files
+2020/11/20-09:34:41.778 4671f Generated table #9@1: 6 keys, 267 bytes
+2020/11/20-09:34:41.780 4671f Compacted 1@1 + 1@2 files => 267 bytes
+2020/11/20-09:34:41.816 4671f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/20-09:34:41.817 4671f Delete type=2 #8
+2020/11/20-09:34:41.817 4671f Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 301 : 0 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/20-09:35:59.095 4a823 Level-0 table #11: started
+2020/11/20-09:35:59.109 4a823 Level-0 table #11: 65122 bytes OK
+2020/11/20-09:35:59.135 4a823 Delete type=0 #7
+2020/11/20-09:35:59.135 4a823 Delete type=2 #5
+2020/11/20-09:35:59.138 4a823 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/20-09:35:59.138 4a823 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 360 : 1
+2020/11/20-09:35:59.138 4a823 Compacting 1@1 + 1@2 files
+2020/11/20-09:35:59.151 4a823 Generated table #12@1: 31 keys, 22539 bytes
+2020/11/20-09:35:59.151 4a823 Compacted 1@1 + 1@2 files => 22539 bytes
+2020/11/20-09:35:59.178 4a823 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/20-09:35:59.179 4a823 Delete type=2 #11
+2020/11/20-09:35:59.180 4a823 Delete type=2 #9
+2020/11/20-09:35:59.180 4a823 Manual compaction at level-1 from '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 360 : 1 .. (end); will stop at (end)

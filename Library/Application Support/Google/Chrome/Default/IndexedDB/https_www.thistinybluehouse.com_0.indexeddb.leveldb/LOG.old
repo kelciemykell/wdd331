@@ -1,0 +1,5 @@
+2020/07/06-21:35:28.712 34d33 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.thistinybluehouse.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/06-21:35:33.194 e567 Level-0 table #5: started
+2020/07/06-21:35:33.207 e567 Level-0 table #5: 381 bytes OK
+2020/07/06-21:35:33.258 e567 Delete type=0 #3
+2020/07/06-21:35:33.260 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

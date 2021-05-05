@@ -1,0 +1,15 @@
+2021/01/08-10:19:43.281 11063 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/08-10:19:43.281 11063 Recovering log #4
+2021/01/08-10:19:43.281 11063 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/000004.log 
+2021/01/08-10:20:02.838 27203 Level-0 table #8: started
+2021/01/08-10:20:02.865 27203 Level-0 table #8: 12543 bytes OK
+2021/01/08-10:20:02.894 27203 Delete type=0 #4
+2021/01/08-10:20:02.897 27203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/08-10:20:02.897 27203 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01^\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00q\x003\x00N\x00e\x00V\x00y\x00X\x00K\x00o\x005\x00J\x000\x00i\x006\x004\x00l\x00V\x00-\x00r\x00Z\x00X\x00n\x00t\x00u\x00g\x00i\x00t\x00F\x00X\x00n\x00P\x008\x00:\x003\x00f\x00b\x008\x00e\x00e\x006\x007\x00-\x009\x007\x000\x004\x00-\x004\x00d\x007\x007\x00-\x00b\x006\x00d\x00e\x00-\x00f\x00e\x004\x009\x000\x00e\x00c\x003\x003\x00e\x009\x005' @ 126 : 1
+2021/01/08-10:20:02.897 27203 Compacting 1@1 + 1@2 files
+2021/01/08-10:20:02.910 27203 Generated table #9@1: 24 keys, 7543 bytes
+2021/01/08-10:20:02.910 27203 Compacted 1@1 + 1@2 files => 7543 bytes
+2021/01/08-10:20:02.930 27203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/08-10:20:02.931 27203 Delete type=2 #5
+2021/01/08-10:20:02.937 27203 Delete type=2 #8
+2021/01/08-10:20:02.938 27203 Manual compaction at level-1 from '\x00\x01\x01\x02\x01^\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00q\x003\x00N\x00e\x00V\x00y\x00X\x00K\x00o\x005\x00J\x000\x00i\x006\x004\x00l\x00V\x00-\x00r\x00Z\x00X\x00n\x00t\x00u\x00g\x00i\x00t\x00F\x00X\x00n\x00P\x008\x00:\x003\x00f\x00b\x008\x00e\x00e\x006\x007\x00-\x009\x007\x000\x004\x00-\x004\x00d\x007\x007\x00-\x00b\x006\x00d\x00e\x00-\x00f\x00e\x004\x009\x000\x00e\x00c\x003\x003\x00e\x009\x005' @ 126 : 1 .. (end); will stop at (end)

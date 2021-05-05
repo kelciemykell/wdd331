@@ -1,0 +1,5 @@
+2021/03/26-13:25:28.344 48ba7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_business.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/26-13:26:00.527 29223 Level-0 table #5: started
+2021/03/26-13:26:00.542 29223 Level-0 table #5: 1250 bytes OK
+2021/03/26-13:26:00.574 29223 Delete type=0 #3
+2021/03/26-13:26:00.575 29223 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

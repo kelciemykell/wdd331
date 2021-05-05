@@ -1,0 +1,5 @@
+2020/07/10-13:58:06.926 8f3b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.wayfair.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/10-13:58:35.979 1a03b Level-0 table #5: started
+2020/07/10-13:58:35.994 1a03b Level-0 table #5: 340 bytes OK
+2020/07/10-13:58:36.015 1a03b Delete type=0 #3
+2020/07/10-13:58:36.018 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

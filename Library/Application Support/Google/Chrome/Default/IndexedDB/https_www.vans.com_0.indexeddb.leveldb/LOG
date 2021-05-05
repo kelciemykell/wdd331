@@ -1,0 +1,5 @@
+2020/09/24-13:10:55.240 5643 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.vans.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-13:15:54.514 b51b Level-0 table #5: started
+2020/09/24-13:15:54.527 b51b Level-0 table #5: 4849 bytes OK
+2020/09/24-13:15:54.551 b51b Delete type=0 #3
+2020/09/24-13:15:54.554 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

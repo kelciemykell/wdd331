@@ -1,0 +1,8 @@
+2020/11/23-11:40:08.443 49907 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_statistacomdev.cleverpush.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-11:40:08.444 49907 Recovering log #10
+2020/11/23-11:40:08.444 49907 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_statistacomdev.cleverpush.com_0.indexeddb.leveldb/000010.log 
+2020/11/23-11:40:12.742 37537 Level-0 table #15: started
+2020/11/23-11:40:12.742 37537 Level-0 table #15: 0 bytes OK
+2020/11/23-11:40:12.777 37537 Delete type=0 #10
+2020/11/23-11:40:12.779 37537 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-11:40:12.779 37537 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

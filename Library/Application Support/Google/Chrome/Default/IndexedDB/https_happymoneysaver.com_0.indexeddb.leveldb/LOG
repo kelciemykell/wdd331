@@ -1,0 +1,15 @@
+2020/08/26-15:43:56.524 4dd1f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_happymoneysaver.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/26-15:43:56.524 4dd1f Recovering log #4
+2020/08/26-15:43:56.524 4dd1f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_happymoneysaver.com_0.indexeddb.leveldb/000004.log 
+2020/08/26-15:44:33.244 1e1b Level-0 table #8: started
+2020/08/26-15:44:33.259 1e1b Level-0 table #8: 2131 bytes OK
+2020/08/26-15:44:33.290 1e1b Delete type=0 #4
+2020/08/26-15:44:33.292 1e1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/26-15:44:33.292 1e1b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x14\x00/\x00e\x00a\x00s\x00y\x00-\x00f\x00r\x00e\x00e\x00z\x00e\x00r\x00-\x00m\x00e\x00a\x00l\x00s\x00/' @ 77 : 0
+2020/08/26-15:44:33.292 1e1b Compacting 1@1 + 1@2 files
+2020/08/26-15:44:33.302 1e1b Generated table #9@1: 23 keys, 2246 bytes
+2020/08/26-15:44:33.302 1e1b Compacted 1@1 + 1@2 files => 2246 bytes
+2020/08/26-15:44:33.331 1e1b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/26-15:44:33.332 1e1b Delete type=2 #5
+2020/08/26-15:44:33.335 1e1b Delete type=2 #8
+2020/08/26-15:44:33.336 1e1b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x14\x00/\x00e\x00a\x00s\x00y\x00-\x00f\x00r\x00e\x00e\x00z\x00e\x00r\x00-\x00m\x00e\x00a\x00l\x00s\x00/' @ 77 : 0 .. (end); will stop at (end)

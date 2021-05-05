@@ -1,0 +1,5 @@
+2020/05/27-10:06:01.817 30283 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_cookieandkate.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/27-10:06:16.061 2000f Level-0 table #5: started
+2020/05/27-10:06:16.075 2000f Level-0 table #5: 344 bytes OK
+2020/05/27-10:06:16.096 2000f Delete type=0 #3
+2020/05/27-10:06:16.099 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

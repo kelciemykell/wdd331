@@ -1,0 +1,15 @@
+2020/09/26-09:43:46.588 e3bb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/26-09:43:46.589 e3bb Recovering log #25
+2020/09/26-09:43:46.589 e3bb Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000025.log 
+2020/09/26-09:44:13.694 b51b Level-0 table #31: started
+2020/09/26-09:44:13.709 b51b Level-0 table #31: 274194 bytes OK
+2020/09/26-09:44:13.735 b51b Delete type=0 #25
+2020/09/26-09:44:13.738 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/26-09:44:13.738 b51b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 3424 : 0
+2020/09/26-09:44:13.738 b51b Compacting 1@1 + 1@2 files
+2020/09/26-09:44:13.751 b51b Generated table #32@1: 38 keys, 65557 bytes
+2020/09/26-09:44:13.751 b51b Compacted 1@1 + 1@2 files => 65557 bytes
+2020/09/26-09:44:13.791 b51b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/26-09:44:13.792 b51b Delete type=2 #28
+2020/09/26-09:44:13.792 b51b Delete type=2 #31
+2020/09/26-09:44:13.793 b51b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 3424 : 0 .. (end); will stop at (end)

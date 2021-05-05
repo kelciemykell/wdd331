@@ -1,0 +1,5 @@
+2020/05/19-18:22:25.390 9603 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.imore.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-18:22:36.716 10f1f Level-0 table #5: started
+2020/05/19-18:22:36.731 10f1f Level-0 table #5: 336 bytes OK
+2020/05/19-18:22:36.752 10f1f Delete type=0 #3
+2020/05/19-18:22:36.754 10f1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

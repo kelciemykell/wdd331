@@ -1,0 +1,15 @@
+2020/11/10-10:54:25.603 32447 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tartecosmetics.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/10-10:54:25.604 32447 Recovering log #11
+2020/11/10-10:54:25.604 32447 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tartecosmetics.com_0.indexeddb.leveldb/000011.log 
+2020/11/10-10:55:23.381 23d7b Level-0 table #16: started
+2020/11/10-10:55:23.400 23d7b Level-0 table #16: 1607 bytes OK
+2020/11/10-10:55:23.431 23d7b Delete type=0 #11
+2020/11/10-10:55:23.436 23d7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/10-10:55:23.436 2bf57 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 208 : 1
+2020/11/10-10:55:23.436 2bf57 Compacting 1@1 + 1@2 files
+2020/11/10-10:55:23.451 2bf57 Generated table #17@1: 44 keys, 2191 bytes
+2020/11/10-10:55:23.451 2bf57 Compacted 1@1 + 1@2 files => 2191 bytes
+2020/11/10-10:55:23.477 2bf57 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/10-10:55:23.478 2bf57 Delete type=2 #16
+2020/11/10-10:55:23.479 2bf57 Delete type=2 #13
+2020/11/10-10:55:23.479 2bf57 Manual compaction at level-1 from '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 208 : 1 .. (end); will stop at (end)

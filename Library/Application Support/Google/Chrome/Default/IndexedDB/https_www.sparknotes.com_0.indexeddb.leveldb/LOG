@@ -1,0 +1,8 @@
+2020/05/20-16:23:47.873 37007 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.sparknotes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/20-16:23:47.874 37007 Recovering log #38
+2020/05/20-16:23:47.874 37007 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.sparknotes.com_0.indexeddb.leveldb/000038.log 
+2020/05/20-16:23:55.986 b30f Level-0 table #42: started
+2020/05/20-16:23:55.986 b30f Level-0 table #42: 0 bytes OK
+2020/05/20-16:23:56.014 b30f Delete type=0 #38
+2020/05/20-16:23:56.015 b30f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/20-16:23:56.015 b30f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

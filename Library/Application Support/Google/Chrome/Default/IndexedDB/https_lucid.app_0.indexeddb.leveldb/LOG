@@ -1,0 +1,15 @@
+2020/11/13-11:20:33.246 2596b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_lucid.app_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/13-11:20:33.246 2596b Recovering log #10
+2020/11/13-11:20:33.247 2596b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_lucid.app_0.indexeddb.leveldb/000010.log 
+2020/11/13-11:27:17.905 6f33 Level-0 table #15: started
+2020/11/13-11:27:17.919 6f33 Level-0 table #15: 94375 bytes OK
+2020/11/13-11:27:17.946 6f33 Delete type=0 #10
+2020/11/13-11:27:17.948 6f33 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/13-11:27:17.948 6f33 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0d\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1030 : 1
+2020/11/13-11:27:17.948 6f33 Compacting 1@1 + 1@2 files
+2020/11/13-11:27:17.959 6f33 Generated table #16@1: 291 keys, 35189 bytes
+2020/11/13-11:27:17.959 6f33 Compacted 1@1 + 1@2 files => 35189 bytes
+2020/11/13-11:27:17.979 6f33 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/13-11:27:17.980 6f33 Delete type=2 #15
+2020/11/13-11:27:17.985 6f33 Delete type=2 #12
+2020/11/13-11:27:17.985 6f33 Manual compaction at level-1 from '\x00\x0d\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 1030 : 1 .. (end); will stop at (end)

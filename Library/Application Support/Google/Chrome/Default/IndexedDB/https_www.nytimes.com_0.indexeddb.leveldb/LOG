@@ -1,0 +1,5 @@
+2020/06/10-15:32:12.903 3a0f7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.nytimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-15:32:16.670 2000f Level-0 table #5: started
+2020/06/10-15:32:16.688 2000f Level-0 table #5: 361 bytes OK
+2020/06/10-15:32:16.718 2000f Delete type=0 #3
+2020/06/10-15:32:16.726 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

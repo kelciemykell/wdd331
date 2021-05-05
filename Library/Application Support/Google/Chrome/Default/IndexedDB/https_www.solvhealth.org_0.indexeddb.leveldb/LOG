@@ -1,0 +1,5 @@
+2021/04/19-14:10:00.731 36e0b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.solvhealth.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/19-14:10:37.660 2fa23 Level-0 table #5: started
+2021/04/19-14:10:37.672 2fa23 Level-0 table #5: 28531 bytes OK
+2021/04/19-14:10:37.701 2fa23 Delete type=0 #3
+2021/04/19-14:10:37.703 2fa23 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

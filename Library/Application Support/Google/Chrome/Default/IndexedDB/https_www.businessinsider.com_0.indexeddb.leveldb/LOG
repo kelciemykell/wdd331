@@ -1,0 +1,5 @@
+2020/10/01-09:44:48.618 31fcb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.businessinsider.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-09:46:08.951 b51b Level-0 table #5: started
+2020/10/01-09:46:08.968 b51b Level-0 table #5: 702844 bytes OK
+2020/10/01-09:46:08.995 b51b Delete type=0 #3
+2020/10/01-09:46:08.998 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

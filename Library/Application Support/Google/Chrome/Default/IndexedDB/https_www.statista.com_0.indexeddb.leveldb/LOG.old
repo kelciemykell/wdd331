@@ -1,0 +1,8 @@
+2020/11/23-11:37:03.923 34d0f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.statista.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-11:37:03.924 34d0f Recovering log #7
+2020/11/23-11:37:03.924 34d0f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.statista.com_0.indexeddb.leveldb/000007.log 
+2020/11/23-11:37:24.992 34d0f Level-0 table #12: started
+2020/11/23-11:37:24.992 34d0f Level-0 table #12: 0 bytes OK
+2020/11/23-11:37:25.029 34d0f Delete type=0 #7
+2020/11/23-11:37:25.030 34d0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-11:37:25.030 34d0f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

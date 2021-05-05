@@ -1,0 +1,15 @@
+2021/03/17-13:06:47.825 4e50f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_thrivemarket.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/17-13:06:47.825 4e50f Recovering log #79
+2021/03/17-13:06:47.825 4e50f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_thrivemarket.com_0.indexeddb.leveldb/000079.log 
+2021/03/17-13:06:51.425 44d17 Level-0 table #83: started
+2021/03/17-13:06:51.441 44d17 Level-0 table #83: 633 bytes OK
+2021/03/17-13:06:51.470 44d17 Delete type=0 #79
+2021/03/17-13:06:51.471 44d17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/17-13:06:51.471 44d17 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x80A\xa6eA' @ 231 : 1
+2021/03/17-13:06:51.471 44d17 Compacting 1@1 + 1@2 files
+2021/03/17-13:06:51.484 44d17 Generated table #84@1: 35 keys, 892 bytes
+2021/03/17-13:06:51.484 44d17 Compacted 1@1 + 1@2 files => 892 bytes
+2021/03/17-13:06:51.513 44d17 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/17-13:06:51.513 44d17 Delete type=2 #77
+2021/03/17-13:06:51.515 44d17 Delete type=2 #83
+2021/03/17-13:06:51.516 44d17 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x80A\xa6eA' @ 231 : 1 .. (end); will stop at (end)

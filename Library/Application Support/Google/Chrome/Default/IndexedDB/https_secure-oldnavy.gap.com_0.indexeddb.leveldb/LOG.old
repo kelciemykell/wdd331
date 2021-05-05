@@ -1,0 +1,15 @@
+2021/03/02-09:34:47.251 2e3bf Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_secure-oldnavy.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/02-09:34:47.252 2e3bf Recovering log #124
+2021/03/02-09:34:47.252 2e3bf Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_secure-oldnavy.gap.com_0.indexeddb.leveldb/000124.log 
+2021/03/02-09:35:34.180 3848f Level-0 table #129: started
+2021/03/02-09:35:34.190 3848f Level-0 table #129: 2961 bytes OK
+2021/03/02-09:35:34.218 3848f Delete type=0 #124
+2021/03/02-09:35:34.220 3848f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/02-09:35:34.220 3848f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x01\x10\x003\x001\x008\x008\x008\x005\x009\x000\x008\x003\x008\x000\x000\x007\x008\x002\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x008\x008\x008\x005\x009\x000\x008\x003\x008\x000\x000\x007\x008\x002\x00.\x001\x006\x001\x004\x007\x000\x002\x009\x001\x003\x005\x002\x001' @ 1884 : 1
+2021/03/02-09:35:34.220 3848f Compacting 1@1 + 1@2 files
+2021/03/02-09:35:34.230 3848f Generated table #130@1: 99 keys, 4807 bytes
+2021/03/02-09:35:34.231 3848f Compacted 1@1 + 1@2 files => 4807 bytes
+2021/03/02-09:35:34.249 3848f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/02-09:35:34.250 3848f Delete type=2 #129
+2021/03/02-09:35:34.250 3848f Delete type=2 #126
+2021/03/02-09:35:34.251 3848f Manual compaction at level-1 from '\x00\x02\x01\x1f\x01\x10\x003\x001\x008\x008\x008\x005\x009\x000\x008\x003\x008\x000\x000\x007\x008\x002\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x008\x008\x008\x005\x009\x000\x008\x003\x008\x000\x000\x007\x008\x002\x00.\x001\x006\x001\x004\x007\x000\x002\x009\x001\x003\x005\x002\x001' @ 1884 : 1 .. (end); will stop at (end)

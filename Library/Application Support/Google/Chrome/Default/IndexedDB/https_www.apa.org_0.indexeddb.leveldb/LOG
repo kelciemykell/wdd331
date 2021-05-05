@@ -1,0 +1,17 @@
+2020/06/09-13:26:13.779 34dcb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.apa.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/09-13:26:30.013 2000f Level-0 table #5: started
+2020/06/09-13:26:30.028 2000f Level-0 table #5: 561 bytes OK
+2020/06/09-13:26:30.056 2000f Delete type=0 #3
+2020/06/09-13:26:30.058 2000f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/06/09-13:26:32.072 2000f Level-0 table #7: started
+2020/06/09-13:26:32.084 2000f Level-0 table #7: 237 bytes OK
+2020/06/09-13:26:32.105 2000f Delete type=0 #4
+2020/06/09-13:26:32.108 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/09-13:26:32.108 2000f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2020/06/09-13:26:32.108 2000f Compacting 1@1 + 1@2 files
+2020/06/09-13:26:32.117 2000f Generated table #8@1: 5 keys, 237 bytes
+2020/06/09-13:26:32.117 2000f Compacted 1@1 + 1@2 files => 237 bytes
+2020/06/09-13:26:32.144 2000f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/09-13:26:32.145 2000f Delete type=2 #7
+2020/06/09-13:26:32.145 2000f Delete type=2 #5
+2020/06/09-13:26:32.146 2000f Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

@@ -1,0 +1,37 @@
+2020/11/23-11:58:48.483 3a95b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-11:58:48.484 3a95b Recovering log #15
+2020/11/23-11:58:48.484 3a95b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/000015.log 
+2020/11/23-11:58:48.719 2f013 Level-0 table #21: started
+2020/11/23-11:58:48.742 2f013 Level-0 table #21: 988 bytes OK
+2020/11/23-11:58:48.797 2f013 Delete type=0 #15
+2020/11/23-11:58:48.801 2f013 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/23-11:58:58.372 2f013 Level-0 table #23: started
+2020/11/23-11:58:58.382 2f013 Level-0 table #23: 516 bytes OK
+2020/11/23-11:58:58.457 2f013 Delete type=0 #20
+2020/11/23-11:58:58.458 2f013 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 238 : 1
+2020/11/23-11:58:58.458 2f013 Compacting 1@0 + 1@1 files
+2020/11/23-11:58:58.469 2f013 Generated table #24@0: 4 keys, 259 bytes
+2020/11/23-11:58:58.469 2f013 Compacted 1@0 + 1@1 files => 259 bytes
+2020/11/23-11:58:58.501 2f013 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/23-11:58:58.501 2f013 Delete type=2 #23
+2020/11/23-11:58:58.502 2f013 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 238 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/23-11:59:00.368 33dcf Level-0 table #26: started
+2020/11/23-11:59:00.381 33dcf Level-0 table #26: 218 bytes OK
+2020/11/23-11:59:00.405 33dcf Delete type=2 #21
+2020/11/23-11:59:00.405 33dcf Delete type=0 #22
+2020/11/23-11:59:00.406 33dcf Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 254 : 0
+2020/11/23-11:59:00.406 33dcf Compacting 1@0 + 1@1 files
+2020/11/23-11:59:00.417 33dcf Generated table #27@0: 2 keys, 196 bytes
+2020/11/23-11:59:00.417 33dcf Compacted 1@0 + 1@1 files => 196 bytes
+2020/11/23-11:59:00.439 33dcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/23-11:59:00.440 33dcf Delete type=2 #26
+2020/11/23-11:59:00.440 33dcf Delete type=2 #24
+2020/11/23-11:59:00.441 33dcf Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 254 : 0 .. (end); will stop at (end)
+2020/11/23-11:59:00.441 33dcf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 249 : 0
+2020/11/23-11:59:00.441 33dcf Compacting 1@1 + 1@2 files
+2020/11/23-11:59:00.452 33dcf Generated table #28@1: 5 keys, 237 bytes
+2020/11/23-11:59:00.452 33dcf Compacted 1@1 + 1@2 files => 237 bytes
+2020/11/23-11:59:00.477 33dcf compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-11:59:00.478 33dcf Delete type=2 #27
+2020/11/23-11:59:00.479 33dcf Delete type=2 #18
+2020/11/23-11:59:00.480 33dcf Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 249 : 0 .. (end); will stop at (end)

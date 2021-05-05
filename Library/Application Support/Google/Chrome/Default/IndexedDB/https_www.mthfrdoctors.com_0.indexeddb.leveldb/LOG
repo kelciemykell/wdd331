@@ -1,0 +1,5 @@
+2020/06/08-13:16:23.312 23257 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.mthfrdoctors.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/08-13:16:58.058 2000f Level-0 table #5: started
+2020/06/08-13:16:58.073 2000f Level-0 table #5: 829 bytes OK
+2020/06/08-13:16:58.096 2000f Delete type=0 #3
+2020/06/08-13:16:58.098 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

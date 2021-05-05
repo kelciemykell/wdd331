@@ -1,0 +1,5 @@
+2020/10/15-13:07:12.338 1a3d3 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_foodtruckempire.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/15-13:07:33.699 323db Level-0 table #5: started
+2020/10/15-13:07:33.711 323db Level-0 table #5: 348 bytes OK
+2020/10/15-13:07:33.733 323db Delete type=0 #3
+2020/10/15-13:07:33.745 323db Manual compaction at level-0 from (begin) .. (end); will stop at (end)

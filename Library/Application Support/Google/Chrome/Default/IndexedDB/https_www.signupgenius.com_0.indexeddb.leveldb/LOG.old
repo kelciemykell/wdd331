@@ -1,0 +1,5 @@
+2021/02/02-09:10:11.376 f74b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.signupgenius.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/02-09:10:30.701 32ca7 Level-0 table #5: started
+2021/02/02-09:10:30.713 32ca7 Level-0 table #5: 371 bytes OK
+2021/02/02-09:10:30.740 32ca7 Delete type=0 #3
+2021/02/02-09:10:30.743 32ca7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

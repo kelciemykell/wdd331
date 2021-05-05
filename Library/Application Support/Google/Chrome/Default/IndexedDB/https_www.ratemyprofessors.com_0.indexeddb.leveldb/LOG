@@ -1,0 +1,15 @@
+2021/03/04-12:42:40.531 2b21b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ratemyprofessors.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/04-12:42:40.532 2b21b Recovering log #7
+2021/03/04-12:42:40.532 2b21b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ratemyprofessors.com_0.indexeddb.leveldb/000007.log 
+2021/03/04-12:48:07.654 2f03f Level-0 table #11: started
+2021/03/04-12:48:07.666 2f03f Level-0 table #11: 1033 bytes OK
+2021/03/04-12:48:07.691 2f03f Delete type=0 #7
+2021/03/04-12:48:07.693 2f03f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/04-12:48:07.693 2f03f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00@\x0cN\x10\xd8A' @ 55 : 1
+2021/03/04-12:48:07.693 2f03f Compacting 1@1 + 1@2 files
+2021/03/04-12:48:07.704 2f03f Generated table #12@1: 23 keys, 613 bytes
+2021/03/04-12:48:07.704 2f03f Compacted 1@1 + 1@2 files => 613 bytes
+2021/03/04-12:48:07.734 2f03f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/04-12:48:07.735 2f03f Delete type=2 #5
+2021/03/04-12:48:07.735 2f03f Delete type=2 #11
+2021/03/04-12:48:07.737 2f03f Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00@\x0cN\x10\xd8A' @ 55 : 1 .. (end); will stop at (end)

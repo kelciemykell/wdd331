@@ -1,0 +1,8 @@
+2021/03/17-13:07:27.679 37047 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_thrivemarket.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/17-13:07:27.680 37047 Recovering log #82
+2021/03/17-13:07:27.680 37047 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_thrivemarket.com_0.indexeddb.leveldb/000082.log 
+2021/03/17-13:07:47.809 8827 Level-0 table #87: started
+2021/03/17-13:07:47.809 8827 Level-0 table #87: 0 bytes OK
+2021/03/17-13:07:47.837 8827 Delete type=0 #82
+2021/03/17-13:07:47.838 8827 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/17-13:07:47.838 8827 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

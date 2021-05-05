@@ -1,0 +1,15 @@
+2020/12/29-10:38:35.863 2e8b3 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.azcentral.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/29-10:38:35.864 2e8b3 Recovering log #4
+2020/12/29-10:38:35.864 2e8b3 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.azcentral.com_0.indexeddb.leveldb/000004.log 
+2020/12/29-10:39:57.191 25c13 Level-0 table #8: started
+2020/12/29-10:39:57.203 25c13 Level-0 table #8: 502 bytes OK
+2020/12/29-10:39:57.232 25c13 Delete type=0 #4
+2020/12/29-10:39:57.235 25c13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/29-10:39:57.235 25c13 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x11\x00d\x00i\x00s\x00a\x00b\x00l\x00e\x00_\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s' @ 119 : 1
+2020/12/29-10:39:57.235 25c13 Compacting 1@1 + 1@2 files
+2020/12/29-10:39:57.245 25c13 Generated table #9@1: 38 keys, 995 bytes
+2020/12/29-10:39:57.246 25c13 Compacted 1@1 + 1@2 files => 995 bytes
+2020/12/29-10:39:57.270 25c13 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/29-10:39:57.270 25c13 Delete type=2 #5
+2020/12/29-10:39:57.271 25c13 Delete type=2 #8
+2020/12/29-10:39:57.272 25c13 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x11\x00d\x00i\x00s\x00a\x00b\x00l\x00e\x00_\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s' @ 119 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2020/06/15-11:43:44.153 4062f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.wish.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-11:43:46.599 21dcf Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/06/15-11:44:30.103 21dcf Level-0 table #5: started
+2020/06/15-11:44:30.116 21dcf Level-0 table #5: 186646 bytes OK
+2020/06/15-11:44:30.141 21dcf Delete type=0 #3
+2020/06/15-11:44:30.142 21dcf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

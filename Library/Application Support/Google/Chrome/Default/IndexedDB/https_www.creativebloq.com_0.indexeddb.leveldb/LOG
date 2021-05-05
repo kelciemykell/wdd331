@@ -1,0 +1,5 @@
+2020/05/20-10:01:50.614 4200f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.creativebloq.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/20-10:41:54.763 b30f Level-0 table #5: started
+2020/05/20-10:41:54.778 b30f Level-0 table #5: 5019 bytes OK
+2020/05/20-10:41:54.802 b30f Delete type=0 #3
+2020/05/20-10:41:54.806 b30f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

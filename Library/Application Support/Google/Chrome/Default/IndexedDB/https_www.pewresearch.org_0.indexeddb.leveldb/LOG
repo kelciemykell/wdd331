@@ -1,0 +1,15 @@
+2020/11/16-15:41:08.297 2d127 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pewresearch.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-15:41:08.298 2d127 Recovering log #11
+2020/11/16-15:41:08.298 2d127 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pewresearch.org_0.indexeddb.leveldb/000011.log 
+2020/11/17-14:39:25.248 10afb Level-0 table #16: started
+2020/11/17-14:39:25.262 10afb Level-0 table #16: 498 bytes OK
+2020/11/17-14:39:25.283 10afb Delete type=0 #11
+2020/11/17-14:39:25.284 10afb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/17-14:39:25.284 10afb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x001\x002\x001\x001\x009\x006\x007\x006\x005' @ 93 : 1
+2020/11/17-14:39:25.284 10afb Compacting 1@1 + 1@2 files
+2020/11/17-14:39:25.293 10afb Generated table #17@1: 18 keys, 552 bytes
+2020/11/17-14:39:25.293 10afb Compacted 1@1 + 1@2 files => 552 bytes
+2020/11/17-14:39:25.315 10afb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/17-14:39:25.315 10afb Delete type=2 #16
+2020/11/17-14:39:25.317 10afb Delete type=2 #13
+2020/11/17-14:39:25.318 10afb Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x001\x002\x001\x001\x009\x006\x007\x006\x005' @ 93 : 1 .. (end); will stop at (end)

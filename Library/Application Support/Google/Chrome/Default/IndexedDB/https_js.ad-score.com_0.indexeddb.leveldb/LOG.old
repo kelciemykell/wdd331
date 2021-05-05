@@ -1,0 +1,27 @@
+2020/11/03-12:42:15.608 2d637 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/03-12:42:15.608 2d637 Recovering log #8
+2020/11/03-12:42:15.608 2d637 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/000008.log 
+2020/11/03-12:42:15.808 25277 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/03-12:42:24.496 25277 Level-0 table #14: started
+2020/11/03-12:42:24.507 25277 Level-0 table #14: 1220 bytes OK
+2020/11/03-12:42:24.528 25277 Delete type=0 #8
+2020/11/03-12:42:24.530 25277 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/03-12:42:26.511 2d637 Level-0 table #16: started
+2020/11/03-12:42:26.522 2d637 Level-0 table #16: 237 bytes OK
+2020/11/03-12:42:26.548 2d637 Delete type=0 #13
+2020/11/03-12:42:26.550 2d637 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 170 : 0
+2020/11/03-12:42:26.550 2d637 Compacting 1@0 + 1@1 files
+2020/11/03-12:42:26.559 2d637 Generated table #17@0: 4 keys, 232 bytes
+2020/11/03-12:42:26.559 2d637 Compacted 1@0 + 1@1 files => 232 bytes
+2020/11/03-12:42:26.582 2d637 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/03-12:42:26.583 2d637 Delete type=2 #14
+2020/11/03-12:42:26.583 2d637 Delete type=2 #16
+2020/11/03-12:42:26.583 2d637 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 170 : 0 .. (end); will stop at (end)
+2020/11/03-12:42:26.583 2d637 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 172 : 1
+2020/11/03-12:42:26.583 2d637 Compacting 1@1 + 1@2 files
+2020/11/03-12:42:26.593 2d637 Generated table #18@1: 5 keys, 234 bytes
+2020/11/03-12:42:26.593 2d637 Compacted 1@1 + 1@2 files => 234 bytes
+2020/11/03-12:42:26.619 2d637 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/03-12:42:26.619 2d637 Delete type=2 #17
+2020/11/03-12:42:26.619 2d637 Delete type=2 #11
+2020/11/03-12:42:26.621 2d637 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 172 : 1 .. (end); will stop at (end)

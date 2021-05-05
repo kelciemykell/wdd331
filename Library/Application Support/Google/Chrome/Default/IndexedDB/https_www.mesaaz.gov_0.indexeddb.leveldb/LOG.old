@@ -1,0 +1,5 @@
+2020/06/24-11:56:17.252 44e7f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.mesaaz.gov_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/24-11:56:19.280 e567 Level-0 table #5: started
+2020/06/24-11:56:19.290 e567 Level-0 table #5: 236 bytes OK
+2020/06/24-11:56:19.320 e567 Delete type=0 #3
+2020/06/24-11:56:19.322 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

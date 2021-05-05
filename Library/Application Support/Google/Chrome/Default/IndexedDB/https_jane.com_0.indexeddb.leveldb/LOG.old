@@ -1,0 +1,8 @@
+2020/12/03-13:00:57.039 1a55b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_jane.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-13:00:57.040 1a55b Recovering log #56
+2020/12/03-13:00:57.040 1a55b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_jane.com_0.indexeddb.leveldb/000056.log 
+2020/12/03-13:00:59.799 1a55b Level-0 table #60: started
+2020/12/03-13:00:59.799 1a55b Level-0 table #60: 0 bytes OK
+2020/12/03-13:00:59.832 1a55b Delete type=0 #56
+2020/12/03-13:00:59.835 1a55b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-13:00:59.835 1a55b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

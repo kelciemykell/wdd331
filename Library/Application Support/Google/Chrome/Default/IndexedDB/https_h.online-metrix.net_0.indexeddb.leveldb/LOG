@@ -1,0 +1,15 @@
+2020/12/10-12:35:25.424 4d75f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-12:35:25.425 4d75f Recovering log #67
+2020/12/10-12:35:25.425 4d75f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000067.log 
+2020/12/10-12:35:30.712 41293 Level-0 table #71: started
+2020/12/10-12:35:30.724 41293 Level-0 table #71: 190 bytes OK
+2020/12/10-12:35:30.755 41293 Delete type=0 #67
+2020/12/10-12:35:30.756 41293 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/10-12:35:30.756 41293 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 62 : 1
+2020/12/10-12:35:30.756 41293 Compacting 1@1 + 1@2 files
+2020/12/10-12:35:30.766 41293 Generated table #72@1: 20 keys, 786 bytes
+2020/12/10-12:35:30.766 41293 Compacted 1@1 + 1@2 files => 786 bytes
+2020/12/10-12:35:30.791 41293 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/10-12:35:30.792 41293 Delete type=2 #71
+2020/12/10-12:35:30.793 41293 Delete type=2 #53
+2020/12/10-12:35:30.794 41293 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 62 : 1 .. (end); will stop at (end)

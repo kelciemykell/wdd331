@@ -1,0 +1,8 @@
+2020/06/08-13:20:25.300 22f53 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_0c04fc6ca7d148a8b3439a8cfcb36c38.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/08-13:20:25.300 22f53 Recovering log #4
+2020/06/08-13:20:25.300 22f53 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_0c04fc6ca7d148a8b3439a8cfcb36c38.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/06/08-13:20:35.559 2000f Level-0 table #8: started
+2020/06/08-13:20:35.559 2000f Level-0 table #8: 0 bytes OK
+2020/06/08-13:20:35.589 2000f Delete type=0 #4
+2020/06/08-13:20:35.591 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/08-13:20:35.591 2000f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

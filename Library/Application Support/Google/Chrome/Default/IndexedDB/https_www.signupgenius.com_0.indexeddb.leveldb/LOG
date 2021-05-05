@@ -1,0 +1,15 @@
+2021/02/09-11:48:42.730 2451b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.signupgenius.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/09-11:48:42.730 2451b Recovering log #4
+2021/02/09-11:48:42.730 2451b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.signupgenius.com_0.indexeddb.leveldb/000004.log 
+2021/02/09-11:48:59.893 2451b Level-0 table #8: started
+2021/02/09-11:48:59.907 2451b Level-0 table #8: 190 bytes OK
+2021/02/09-11:48:59.940 2451b Delete type=0 #4
+2021/02/09-11:48:59.944 2451b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/09-11:48:59.944 2451b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 10 : 1
+2021/02/09-11:48:59.945 2451b Compacting 1@1 + 1@2 files
+2021/02/09-11:48:59.956 2451b Generated table #9@1: 8 keys, 358 bytes
+2021/02/09-11:48:59.956 2451b Compacted 1@1 + 1@2 files => 358 bytes
+2021/02/09-11:48:59.981 2451b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/09-11:48:59.982 2451b Delete type=2 #5
+2021/02/09-11:48:59.983 2451b Delete type=2 #8
+2021/02/09-11:48:59.984 2451b Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 10 : 1 .. (end); will stop at (end)

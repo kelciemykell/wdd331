@@ -1,0 +1,5 @@
+2020/12/02-09:01:52.007 4f587 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-09:02:11.031 1c137 Level-0 table #5: started
+2020/12/02-09:02:11.042 1c137 Level-0 table #5: 28690 bytes OK
+2020/12/02-09:02:11.063 1c137 Delete type=0 #3
+2020/12/02-09:02:11.064 1c137 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

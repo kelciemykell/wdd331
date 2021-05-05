@@ -1,0 +1,5 @@
+2020/10/08-14:11:42.420 2c71b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_amazonlive-portal.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/08-14:11:45.571 1eacf Level-0 table #5: started
+2020/10/08-14:11:45.582 1eacf Level-0 table #5: 1356 bytes OK
+2020/10/08-14:11:45.603 1eacf Delete type=0 #3
+2020/10/08-14:11:45.605 1eacf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

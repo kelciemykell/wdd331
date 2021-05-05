@@ -1,0 +1,5 @@
+2020/10/14-16:25:10.269 2b1bb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_nowthisnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/14-16:31:50.125 2dbd3 Level-0 table #5: started
+2020/10/14-16:31:50.138 2dbd3 Level-0 table #5: 832573 bytes OK
+2020/10/14-16:31:50.164 2dbd3 Delete type=0 #3
+2020/10/14-16:31:50.165 2dbd3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

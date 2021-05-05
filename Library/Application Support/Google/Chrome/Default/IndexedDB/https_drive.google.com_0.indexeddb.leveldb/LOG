@@ -1,0 +1,15 @@
+2021/05/05-07:59:27.345 32f97 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/05-07:59:27.351 32f97 Recovering log #15511
+2021/05/05-07:59:27.351 32f97 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/015511.log 
+2021/05/05-08:00:34.719 32f97 Level-0 table #15516: started
+2021/05/05-08:00:34.730 32f97 Level-0 table #15516: 4792 bytes OK
+2021/05/05-08:00:34.752 32f97 Delete type=0 #15511
+2021/05/05-08:00:34.754 32f97 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/05-08:00:34.754 32f97 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x008\x00M\x00X\x00G\x00R\x00N\x00v\x003\x00D\x00P\x00s\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 1960026 : 1
+2021/05/05-08:00:34.754 32f97 Compacting 1@1 + 1@2 files
+2021/05/05-08:00:34.788 32f97 Generated table #15517@1: 1339 keys, 2115428 bytes
+2021/05/05-08:00:34.788 32f97 Compacted 1@1 + 1@2 files => 2115428 bytes
+2021/05/05-08:00:34.814 32f97 compacted to: files[ 0 0 7 0 0 0 0 ]
+2021/05/05-08:00:34.814 32f97 Delete type=2 #15513
+2021/05/05-08:00:34.816 32f97 Delete type=2 #15516
+2021/05/05-08:00:34.817 32f97 Manual compaction at level-1 from '\x00\x06\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x008\x00M\x00X\x00G\x00R\x00N\x00v\x003\x00D\x00P\x00s\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 1960026 : 1 .. (end); will stop at (end)

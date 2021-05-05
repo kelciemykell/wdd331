@@ -1,0 +1,15 @@
+2020/12/02-09:02:40.492 2290f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-09:02:40.493 2290f Recovering log #4
+2020/12/02-09:02:40.493 2290f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000004.log 
+2020/12/02-09:04:23.871 4d53b Level-0 table #8: started
+2020/12/02-09:04:23.892 4d53b Level-0 table #8: 204074 bytes OK
+2020/12/02-09:04:23.917 4d53b Delete type=0 #4
+2020/12/02-09:04:23.919 4d53b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-09:04:23.919 4d53b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x000\x82 CbwB\x00\x01J\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00.\x00s\x00c\x00d\x00n\x00.\x00c\x00o\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x002\x00b\x007\x00e\x004\x006\x009\x009\x00d\x00d\x004\x00e\x00d\x003\x003\x00b\x00d\x00f\x00e\x00e\x001\x00e\x00c\x006\x007\x000\x00a\x008\x005\x00f\x00c\x008\x004\x002\x008\x001\x007\x000\x007\x007' @ 4630 : 1
+2020/12/02-09:04:23.919 4d53b Compacting 1@1 + 1@2 files
+2020/12/02-09:04:23.934 4d53b Generated table #9@1: 866 keys, 115479 bytes
+2020/12/02-09:04:23.934 4d53b Compacted 1@1 + 1@2 files => 115479 bytes
+2020/12/02-09:04:23.955 4d53b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/02-09:04:23.955 4d53b Delete type=2 #5
+2020/12/02-09:04:23.957 4d53b Delete type=2 #8
+2020/12/02-09:04:23.958 4d53b Manual compaction at level-1 from '\x00\x01\x01 \x03\x000\x82 CbwB\x00\x01J\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00.\x00s\x00c\x00d\x00n\x00.\x00c\x00o\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x002\x00b\x007\x00e\x004\x006\x009\x009\x00d\x00d\x004\x00e\x00d\x003\x003\x00b\x00d\x00f\x00e\x00e\x001\x00e\x00c\x006\x007\x000\x00a\x008\x005\x00f\x00c\x008\x004\x002\x008\x001\x007\x000\x007\x007' @ 4630 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/07/06-21:38:16.527 3e11f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.thistinybluehouse.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/06-21:38:16.528 3e11f Recovering log #4
+2020/07/06-21:38:16.528 3e11f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.thistinybluehouse.com_0.indexeddb.leveldb/000004.log 
+2020/07/06-21:38:26.070 e567 Level-0 table #8: started
+2020/07/06-21:38:26.070 e567 Level-0 table #8: 0 bytes OK
+2020/07/06-21:38:26.139 e567 Delete type=0 #4
+2020/07/06-21:38:26.143 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/06-21:38:26.143 e567 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

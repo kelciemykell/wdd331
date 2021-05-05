@@ -1,0 +1,5 @@
+2020/12/03-12:46:37.725 1fdeb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.noissue.co_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-12:47:12.799 40997 Level-0 table #5: started
+2020/12/03-12:47:12.817 40997 Level-0 table #5: 1174 bytes OK
+2020/12/03-12:47:12.847 40997 Delete type=0 #3
+2020/12/03-12:47:12.850 40997 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/11/13-11:16:50.406 108ab Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.creately.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/13-11:17:46.993 26017 Level-0 table #5: started
+2020/11/13-11:17:47.005 26017 Level-0 table #5: 13091 bytes OK
+2020/11/13-11:17:47.032 26017 Delete type=0 #3
+2020/11/13-11:17:47.033 26017 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

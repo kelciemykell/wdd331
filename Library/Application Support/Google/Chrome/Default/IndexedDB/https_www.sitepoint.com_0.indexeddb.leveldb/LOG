@@ -1,0 +1,15 @@
+2021/04/28-10:13:33.428 28e97 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.sitepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/28-10:13:33.428 28e97 Recovering log #23
+2021/04/28-10:13:33.428 28e97 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.sitepoint.com_0.indexeddb.leveldb/000023.log 
+2021/04/28-12:15:11.113 2ac07 Level-0 table #28: started
+2021/04/28-12:15:11.128 2ac07 Level-0 table #28: 615 bytes OK
+2021/04/28-12:15:11.154 2ac07 Delete type=0 #23
+2021/04/28-12:15:11.156 2ac07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/28-12:15:11.156 2ac07 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x09\x00s\x00p\x00_\x00r\x00e\x00a\x00d\x00e\x00r' @ 249 : 1
+2021/04/28-12:15:11.156 2ac07 Compacting 1@1 + 1@2 files
+2021/04/28-12:15:11.166 2ac07 Generated table #29@1: 72 keys, 1229 bytes
+2021/04/28-12:15:11.166 2ac07 Compacted 1@1 + 1@2 files => 1229 bytes
+2021/04/28-12:15:11.192 2ac07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/28-12:15:11.193 2ac07 Delete type=2 #28
+2021/04/28-12:15:11.194 2ac07 Delete type=2 #25
+2021/04/28-12:15:11.195 2ac07 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x09\x00s\x00p\x00_\x00r\x00e\x00a\x00d\x00e\x00r' @ 249 : 1 .. (end); will stop at (end)

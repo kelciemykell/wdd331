@@ -1,0 +1,17 @@
+2020/09/09-10:06:30.470 40f9f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.zmescience.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/09-10:06:31.283 2ce0b Level-0 table #5: started
+2020/09/09-10:06:31.317 2ce0b Level-0 table #5: 562 bytes OK
+2020/09/09-10:06:31.345 2ce0b Delete type=0 #3
+2020/09/09-10:06:31.346 2ce0b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/09-10:07:31.917 2ce0b Level-0 table #7: started
+2020/09/09-10:07:31.931 2ce0b Level-0 table #7: 11484 bytes OK
+2020/09/09-10:07:31.956 2ce0b Delete type=0 #4
+2020/09/09-10:07:31.959 2ce0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/09-10:07:31.959 2ce0b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x11\x00s\x00p\x00o\x00t\x00i\x00m\x00-\x00s\x00e\x00g\x00m\x00e\x00n\x00t\x00-\x00d\x00b' @ 798 : 1
+2020/09/09-10:07:31.959 2ce0b Compacting 1@1 + 1@2 files
+2020/09/09-10:07:31.969 2ce0b Generated table #8@1: 214 keys, 3985 bytes
+2020/09/09-10:07:31.969 2ce0b Compacted 1@1 + 1@2 files => 3985 bytes
+2020/09/09-10:07:32.001 2ce0b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/09-10:07:32.001 2ce0b Delete type=2 #7
+2020/09/09-10:07:32.001 2ce0b Delete type=2 #5
+2020/09/09-10:07:32.004 2ce0b Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x11\x00s\x00p\x00o\x00t\x00i\x00m\x00-\x00s\x00e\x00g\x00m\x00e\x00n\x00t\x00-\x00d\x00b' @ 798 : 1 .. (end); will stop at (end)

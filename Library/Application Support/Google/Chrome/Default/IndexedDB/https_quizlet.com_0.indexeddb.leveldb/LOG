@@ -1,0 +1,5 @@
+2020/10/22-13:10:19.877 2b747 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/22-13:10:46.882 23f93 Level-0 table #5: started
+2020/10/22-13:10:46.901 23f93 Level-0 table #5: 353 bytes OK
+2020/10/22-13:10:46.931 23f93 Delete type=0 #3
+2020/10/22-13:10:46.933 23f93 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/01/11-12:43:51.083 22793 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_happilyevermom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/11-12:43:58.476 2ff5b Level-0 table #5: started
+2021/01/11-12:43:58.490 2ff5b Level-0 table #5: 367 bytes OK
+2021/01/11-12:43:58.513 2ff5b Delete type=0 #3
+2021/01/11-12:43:58.518 2ff5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

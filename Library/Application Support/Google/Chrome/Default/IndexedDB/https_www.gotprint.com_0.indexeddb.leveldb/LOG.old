@@ -1,0 +1,15 @@
+2020/10/27-10:27:26.247 2230b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.gotprint.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/27-10:27:26.247 2230b Recovering log #19
+2020/10/27-10:27:26.247 2230b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.gotprint.com_0.indexeddb.leveldb/000019.log 
+2020/10/27-10:30:57.593 34a1b Level-0 table #24: started
+2020/10/27-10:30:57.604 34a1b Level-0 table #24: 743 bytes OK
+2020/10/27-10:30:57.635 34a1b Delete type=0 #19
+2020/10/27-10:30:57.639 34a1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/27-10:30:57.640 34a1b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x006\x000\x003\x008\x001\x009\x006\x004\x006\x002\x004\x005' @ 180 : 1
+2020/10/27-10:30:57.640 34a1b Compacting 1@1 + 1@2 files
+2020/10/27-10:30:57.653 34a1b Generated table #25@1: 20 keys, 695 bytes
+2020/10/27-10:30:57.653 34a1b Compacted 1@1 + 1@2 files => 695 bytes
+2020/10/27-10:30:57.677 34a1b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/27-10:30:57.677 34a1b Delete type=2 #21
+2020/10/27-10:30:57.679 34a1b Delete type=2 #24
+2020/10/27-10:30:57.679 34a1b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x006\x000\x003\x008\x001\x009\x006\x004\x006\x002\x004\x005' @ 180 : 1 .. (end); will stop at (end)

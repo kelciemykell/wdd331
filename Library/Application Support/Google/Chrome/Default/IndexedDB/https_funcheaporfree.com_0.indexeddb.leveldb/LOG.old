@@ -1,0 +1,8 @@
+2020/11/02-12:08:55.458 1cf43 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_funcheaporfree.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/02-12:08:55.458 1cf43 Recovering log #19
+2020/11/02-12:08:55.459 1cf43 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_funcheaporfree.com_0.indexeddb.leveldb/000019.log 
+2020/11/02-12:09:15.564 24c57 Level-0 table #23: started
+2020/11/02-12:09:15.565 24c57 Level-0 table #23: 0 bytes OK
+2020/11/02-12:09:15.593 24c57 Delete type=0 #19
+2020/11/02-12:09:15.597 24c57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/02-12:09:15.597 24c57 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/10/15-11:16:24.985 3f913 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.hunker.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/15-11:16:54.885 2fa9f Level-0 table #5: started
+2020/10/15-11:16:54.898 2fa9f Level-0 table #5: 14926 bytes OK
+2020/10/15-11:16:54.928 2fa9f Delete type=0 #3
+2020/10/15-11:16:54.930 2fa9f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

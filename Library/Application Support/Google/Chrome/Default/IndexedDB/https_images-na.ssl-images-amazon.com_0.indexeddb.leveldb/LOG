@@ -1,0 +1,15 @@
+2020/12/02-10:56:06.864 4f51b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-10:56:06.864 4f51b Recovering log #14
+2020/12/02-10:56:06.865 4f51b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/000014.log 
+2020/12/02-10:56:10.112 4f51b Level-0 table #19: started
+2020/12/02-10:56:10.123 4f51b Level-0 table #19: 190 bytes OK
+2020/12/02-10:56:10.181 4f51b Delete type=0 #14
+2020/12/02-10:56:10.269 4f51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-10:56:10.270 4f51b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 12 : 1
+2020/12/02-10:56:10.270 4f51b Compacting 1@1 + 1@2 files
+2020/12/02-10:56:10.284 4f51b Generated table #20@1: 8 keys, 380 bytes
+2020/12/02-10:56:10.284 4f51b Compacted 1@1 + 1@2 files => 380 bytes
+2020/12/02-10:56:10.376 4f51b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/02-10:56:10.377 4f51b Delete type=2 #16
+2020/12/02-10:56:10.378 4f51b Delete type=2 #19
+2020/12/02-10:56:10.379 4f51b Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 12 : 1 .. (end); will stop at (end)

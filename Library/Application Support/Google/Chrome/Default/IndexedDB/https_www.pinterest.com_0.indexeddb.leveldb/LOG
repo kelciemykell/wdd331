@@ -1,0 +1,15 @@
+2020/06/15-14:49:35.983 4a823 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-14:49:35.985 4a823 Recovering log #67
+2020/06/15-14:49:35.985 4a823 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/000067.log 
+2020/06/15-14:49:45.660 21dcf Level-0 table #72: started
+2020/06/15-14:49:45.681 21dcf Level-0 table #72: 31744 bytes OK
+2020/06/15-14:49:45.702 21dcf Delete type=0 #67
+2020/06/15-14:49:45.705 21dcf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/15-14:49:45.705 21dcf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`\x1eY\x9f+wB\x00\x01\\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00P\x00r\x00o\x00f\x00i\x00l\x00e\x00P\x00a\x00g\x00e\x00D\x00e\x00s\x00k\x00t\x00o\x00p\x00-\x009\x00e\x006\x00b\x006\x000\x007\x000\x008\x00e\x003\x008\x007\x003\x00c\x005\x001\x00e\x00e\x007\x00.\x00m\x00j\x00s' @ 8455 : 1
+2020/06/15-14:49:45.705 21dcf Compacting 1@1 + 1@2 files
+2020/06/15-14:49:45.718 21dcf Generated table #73@1: 530 keys, 45722 bytes
+2020/06/15-14:49:45.723 21dcf Compacted 1@1 + 1@2 files => 45722 bytes
+2020/06/15-14:49:45.753 21dcf compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/15-14:49:45.754 21dcf Delete type=2 #72
+2020/06/15-14:49:45.755 21dcf Delete type=2 #69
+2020/06/15-14:49:45.755 21dcf Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`\x1eY\x9f+wB\x00\x01\\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00P\x00r\x00o\x00f\x00i\x00l\x00e\x00P\x00a\x00g\x00e\x00D\x00e\x00s\x00k\x00t\x00o\x00p\x00-\x009\x00e\x006\x00b\x006\x000\x007\x000\x008\x00e\x003\x008\x007\x003\x00c\x005\x001\x00e\x00e\x007\x00.\x00m\x00j\x00s' @ 8455 : 1 .. (end); will stop at (end)

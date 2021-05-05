@@ -1,0 +1,15 @@
+2020/06/28-22:17:05.606 54217 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.fabric.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/28-22:17:05.607 54217 Recovering log #35
+2020/06/28-22:17:05.607 54217 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.fabric.com_0.indexeddb.leveldb/000035.log 
+2020/06/28-22:17:15.276 e567 Level-0 table #40: started
+2020/06/28-22:17:15.291 e567 Level-0 table #40: 740 bytes OK
+2020/06/28-22:17:15.315 e567 Delete type=0 #35
+2020/06/28-22:17:15.316 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/28-22:17:15.316 e567 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x005\x009\x003\x004\x000\x007\x008\x002\x005\x005\x009\x009' @ 298 : 1
+2020/06/28-22:17:15.316 e567 Compacting 1@1 + 1@2 files
+2020/06/28-22:17:15.327 e567 Generated table #41@1: 20 keys, 694 bytes
+2020/06/28-22:17:15.328 e567 Compacted 1@1 + 1@2 files => 694 bytes
+2020/06/28-22:17:15.353 e567 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/28-22:17:15.353 e567 Delete type=2 #37
+2020/06/28-22:17:15.354 e567 Delete type=2 #40
+2020/06/28-22:17:15.354 e567 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x005\x009\x003\x004\x000\x007\x008\x002\x005\x005\x009\x009' @ 298 : 1 .. (end); will stop at (end)

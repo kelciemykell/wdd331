@@ -1,0 +1,15 @@
+2020/09/22-13:39:12.928 26953 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-13:39:12.930 26953 Recovering log #33
+2020/09/22-13:39:12.930 26953 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000033.log 
+2020/09/22-13:39:17.590 b51b Level-0 table #37: started
+2020/09/22-13:39:17.601 b51b Level-0 table #37: 190 bytes OK
+2020/09/22-13:39:17.640 b51b Delete type=0 #33
+2020/09/22-13:39:17.643 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/22-13:39:17.643 b51b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 13 : 1
+2020/09/22-13:39:17.643 b51b Compacting 1@1 + 1@2 files
+2020/09/22-13:39:17.654 b51b Generated table #38@1: 8 keys, 368 bytes
+2020/09/22-13:39:17.654 b51b Compacted 1@1 + 1@2 files => 368 bytes
+2020/09/22-13:39:17.675 b51b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/22-13:39:17.676 b51b Delete type=2 #28
+2020/09/22-13:39:17.680 b51b Delete type=2 #37
+2020/09/22-13:39:17.682 b51b Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 13 : 1 .. (end); will stop at (end)

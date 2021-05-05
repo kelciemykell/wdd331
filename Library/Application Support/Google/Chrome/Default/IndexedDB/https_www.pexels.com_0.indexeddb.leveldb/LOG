@@ -1,0 +1,5 @@
+2021/03/30-11:40:54.316 54edb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/30-12:36:46.980 46773 Level-0 table #5: started
+2021/03/30-12:36:46.991 46773 Level-0 table #5: 3546 bytes OK
+2021/03/30-12:36:47.014 46773 Delete type=0 #3
+2021/03/30-12:36:47.015 46773 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

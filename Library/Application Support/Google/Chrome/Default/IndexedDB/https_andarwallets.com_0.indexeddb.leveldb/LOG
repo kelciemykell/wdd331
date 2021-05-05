@@ -1,0 +1,5 @@
+2020/11/27-13:25:59.447 2129f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_andarwallets.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-13:26:50.170 53393 Level-0 table #5: started
+2020/11/27-13:26:50.185 53393 Level-0 table #5: 19077 bytes OK
+2020/11/27-13:26:50.208 53393 Delete type=0 #3
+2020/11/27-13:26:50.213 53393 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

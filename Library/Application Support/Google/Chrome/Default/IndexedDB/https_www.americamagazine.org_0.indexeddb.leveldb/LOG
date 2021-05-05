@@ -1,0 +1,5 @@
+2020/10/15-08:54:48.165 b8b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.americamagazine.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/15-08:55:13.839 b8b Level-0 table #5: started
+2020/10/15-08:55:13.849 b8b Level-0 table #5: 377 bytes OK
+2020/10/15-08:55:13.877 b8b Delete type=0 #3
+2020/10/15-08:55:13.882 b8b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

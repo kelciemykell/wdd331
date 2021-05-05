@@ -1,0 +1,15 @@
+2021/04/07-13:15:39.634 2c8bb Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_byuistudentxprod.regenteducation.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-13:15:39.634 2c8bb Recovering log #27
+2021/04/07-13:15:39.634 2c8bb Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_byuistudentxprod.regenteducation.net_0.indexeddb.leveldb/000027.log 
+2021/04/07-13:16:26.739 3ea57 Level-0 table #32: started
+2021/04/07-13:16:26.759 3ea57 Level-0 table #32: 22624 bytes OK
+2021/04/07-13:16:26.792 3ea57 Delete type=0 #27
+2021/04/07-13:16:26.794 3ea57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/07-13:16:26.794 3ea57 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00B\x00o\x00s\x000\x00X\x00w\x00l\x007\x00N\x00r\x00j\x00i\x00d\x00L\x00m\x00b\x00g\x00g\x00a\x00_\x00L\x00S\x00D\x00h\x00p\x000\x00K\x00-\x00F\x00Q\x001\x00R\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 283 : 1
+2021/04/07-13:16:26.794 3ea57 Compacting 1@1 + 1@2 files
+2021/04/07-13:16:26.808 3ea57 Generated table #33@1: 20 keys, 4740 bytes
+2021/04/07-13:16:26.808 3ea57 Compacted 1@1 + 1@2 files => 4740 bytes
+2021/04/07-13:16:26.839 3ea57 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/07-13:16:26.840 3ea57 Delete type=2 #29
+2021/04/07-13:16:26.840 3ea57 Delete type=2 #32
+2021/04/07-13:16:26.841 3ea57 Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00B\x00o\x00s\x000\x00X\x00w\x00l\x007\x00N\x00r\x00j\x00i\x00d\x00L\x00m\x00b\x00g\x00g\x00a\x00_\x00L\x00S\x00D\x00h\x00p\x000\x00K\x00-\x00F\x00Q\x001\x00R\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 283 : 1 .. (end); will stop at (end)

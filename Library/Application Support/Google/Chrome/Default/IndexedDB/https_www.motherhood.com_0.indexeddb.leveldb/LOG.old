@@ -1,0 +1,5 @@
+2021/01/18-10:20:50.925 2627b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.motherhood.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/18-10:23:31.987 25c3b Level-0 table #5: started
+2021/01/18-10:23:32.003 25c3b Level-0 table #5: 1057 bytes OK
+2021/01/18-10:23:32.040 25c3b Delete type=0 #3
+2021/01/18-10:23:32.047 25c3b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

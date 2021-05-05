@@ -1,0 +1,15 @@
+2020/05/19-16:45:33.337 31977 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-16:45:33.338 31977 Recovering log #4
+2020/05/19-16:45:33.338 31977 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/000004.log 
+2020/05/19-16:45:42.158 19817 Level-0 table #8: started
+2020/05/19-16:45:42.171 19817 Level-0 table #8: 594 bytes OK
+2020/05/19-16:45:42.196 19817 Delete type=0 #4
+2020/05/19-16:45:42.198 19817 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/19-16:45:42.198 19817 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 228 : 1
+2020/05/19-16:45:42.198 19817 Compacting 1@1 + 1@2 files
+2020/05/19-16:45:42.208 19817 Generated table #9@1: 67 keys, 1363 bytes
+2020/05/19-16:45:42.210 19817 Compacted 1@1 + 1@2 files => 1363 bytes
+2020/05/19-16:45:42.230 19817 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/19-16:45:42.232 19817 Delete type=2 #5
+2020/05/19-16:45:42.232 19817 Delete type=2 #8
+2020/05/19-16:45:42.232 19817 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 228 : 1 .. (end); will stop at (end)

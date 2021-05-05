@@ -1,0 +1,15 @@
+2020/11/05-10:54:16.978 22d77 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.chegg.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/05-10:54:16.979 22d77 Recovering log #22
+2020/11/05-10:54:16.979 22d77 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.chegg.com_0.indexeddb.leveldb/000022.log 
+2020/11/05-10:54:33.036 13f73 Level-0 table #27: started
+2020/11/05-10:54:33.047 13f73 Level-0 table #27: 990 bytes OK
+2020/11/05-10:54:33.072 13f73 Delete type=0 #22
+2020/11/05-10:54:33.074 13f73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/05-10:54:33.074 13f73 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x005\x001\x009\x006\x001\x007\x004\x002' @ 359 : 1
+2020/11/05-10:54:33.074 13f73 Compacting 1@1 + 1@2 files
+2020/11/05-10:54:33.084 13f73 Generated table #28@1: 39 keys, 953 bytes
+2020/11/05-10:54:33.084 13f73 Compacted 1@1 + 1@2 files => 953 bytes
+2020/11/05-10:54:33.109 13f73 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/05-10:54:33.110 13f73 Delete type=2 #27
+2020/11/05-10:54:33.110 13f73 Delete type=2 #24
+2020/11/05-10:54:33.110 13f73 Manual compaction at level-1 from '\x00\x02\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x005\x001\x009\x006\x001\x007\x004\x002' @ 359 : 1 .. (end); will stop at (end)

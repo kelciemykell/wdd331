@@ -1,0 +1,5 @@
+2020/12/04-08:57:11.321 3062b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_shop.sprouts.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-09:06:03.270 3b993 Level-0 table #5: started
+2020/12/04-09:06:03.283 3b993 Level-0 table #5: 120079 bytes OK
+2020/12/04-09:06:03.306 3b993 Delete type=0 #3
+2020/12/04-09:06:03.307 3b993 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

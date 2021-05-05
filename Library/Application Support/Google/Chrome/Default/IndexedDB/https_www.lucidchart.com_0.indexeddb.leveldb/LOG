@@ -1,0 +1,5 @@
+2020/11/13-11:17:58.457 273af Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/13-11:18:00.497 1e54f Level-0 table #5: started
+2020/11/13-11:18:00.508 1e54f Level-0 table #5: 827 bytes OK
+2020/11/13-11:18:00.535 1e54f Delete type=0 #3
+2020/11/13-11:18:00.541 1e54f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

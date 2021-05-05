@@ -1,0 +1,17 @@
+2020/09/08-11:53:57.696 49e37 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.scientificamerican.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/08-11:53:58.872 2ce0b Level-0 table #5: started
+2020/09/08-11:53:58.884 2ce0b Level-0 table #5: 1828 bytes OK
+2020/09/08-11:53:58.909 2ce0b Delete type=0 #3
+2020/09/08-11:53:58.915 2ce0b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/08-12:59:36.116 2ce0b Level-0 table #7: started
+2020/09/08-12:59:36.130 2ce0b Level-0 table #7: 774217 bytes OK
+2020/09/08-12:59:36.165 2ce0b Delete type=0 #4
+2020/09/08-12:59:36.169 2ce0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/08-12:59:36.169 2ce0b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\x05' @ 374 : 1
+2020/09/08-12:59:36.169 2ce0b Compacting 1@1 + 1@2 files
+2020/09/08-12:59:36.182 2ce0b Generated table #8@1: 34 keys, 39298 bytes
+2020/09/08-12:59:36.182 2ce0b Compacted 1@1 + 1@2 files => 39298 bytes
+2020/09/08-12:59:36.209 2ce0b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/08-12:59:36.210 2ce0b Delete type=2 #7
+2020/09/08-12:59:36.210 2ce0b Delete type=2 #5
+2020/09/08-12:59:36.211 2ce0b Manual compaction at level-1 from '\x00\x03\x00\x00\x05' @ 374 : 1 .. (end); will stop at (end)

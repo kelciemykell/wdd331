@@ -1,0 +1,15 @@
+2020/11/09-12:34:55.804 318d7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/09-12:34:55.808 318d7 Recovering log #7
+2020/11/09-12:34:55.808 318d7 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000007.log 
+2020/11/09-12:53:35.298 2fb7f Level-0 table #12: started
+2020/11/09-12:53:35.311 2fb7f Level-0 table #12: 207 bytes OK
+2020/11/09-12:53:35.335 2fb7f Delete type=0 #7
+2020/11/09-12:53:35.339 2fb7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/09-12:53:35.339 2fb7f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 109 : 1
+2020/11/09-12:53:35.339 2fb7f Compacting 1@1 + 1@2 files
+2020/11/09-12:53:35.351 2fb7f Generated table #13@1: 35 keys, 239566 bytes
+2020/11/09-12:53:35.351 2fb7f Compacted 1@1 + 1@2 files => 239566 bytes
+2020/11/09-12:53:35.379 2fb7f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/09-12:53:35.380 2fb7f Delete type=2 #12
+2020/11/09-12:53:35.381 2fb7f Delete type=2 #9
+2020/11/09-12:53:35.382 3606b Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 109 : 1 .. (end); will stop at (end)

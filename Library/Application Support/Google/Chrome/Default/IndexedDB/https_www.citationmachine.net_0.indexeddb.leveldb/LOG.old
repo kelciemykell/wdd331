@@ -1,0 +1,8 @@
+2020/09/08-10:20:20.132 2138f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.citationmachine.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/08-10:20:20.132 2138f Recovering log #29
+2020/09/08-10:20:20.132 2138f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.citationmachine.net_0.indexeddb.leveldb/000029.log 
+2020/09/08-10:20:24.859 2ce0b Level-0 table #34: started
+2020/09/08-10:20:24.859 2ce0b Level-0 table #34: 0 bytes OK
+2020/09/08-10:20:24.887 2ce0b Delete type=0 #29
+2020/09/08-10:20:24.887 2ce0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/08-10:20:24.887 2ce0b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

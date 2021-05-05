@@ -1,0 +1,15 @@
+2020/10/27-09:09:33.150 cd33 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/27-09:09:33.150 cd33 Recovering log #11
+2020/10/27-09:09:33.150 cd33 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/000011.log 
+2020/10/27-09:09:41.411 4547 Level-0 table #15: started
+2020/10/27-09:09:41.421 4547 Level-0 table #15: 190 bytes OK
+2020/10/27-09:09:41.444 4547 Delete type=0 #11
+2020/10/27-09:09:41.445 4547 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/27-09:09:41.445 4547 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 11 : 1
+2020/10/27-09:09:41.445 4547 Compacting 1@1 + 1@2 files
+2020/10/27-09:09:41.455 4547 Generated table #16@1: 8 keys, 380 bytes
+2020/10/27-09:09:41.455 4547 Compacted 1@1 + 1@2 files => 380 bytes
+2020/10/27-09:09:41.479 4547 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/27-09:09:41.479 4547 Delete type=2 #15
+2020/10/27-09:09:41.480 4547 Delete type=2 #9
+2020/10/27-09:09:41.480 4547 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 11 : 1 .. (end); will stop at (end)

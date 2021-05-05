@@ -1,0 +1,5 @@
+2020/05/20-15:50:47.426 44aa7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.alltrails.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/20-15:51:21.047 b30f Level-0 table #5: started
+2020/05/20-15:51:21.065 b30f Level-0 table #5: 2503 bytes OK
+2020/05/20-15:51:21.083 b30f Delete type=0 #3
+2020/05/20-15:51:21.084 b30f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

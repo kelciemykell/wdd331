@@ -1,0 +1,5 @@
+2020/05/27-10:04:16.486 4a913 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_12da934f57d39c8b9f49c6f0ae9649d1.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/27-10:04:22.311 2000f Level-0 table #5: started
+2020/05/27-10:04:22.326 2000f Level-0 table #5: 439 bytes OK
+2020/05/27-10:04:22.350 2000f Delete type=0 #3
+2020/05/27-10:04:22.351 2000f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

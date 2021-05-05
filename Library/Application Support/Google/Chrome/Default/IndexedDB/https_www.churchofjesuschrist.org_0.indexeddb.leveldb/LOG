@@ -1,0 +1,15 @@
+2020/08/03-14:22:21.028 4564f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.churchofjesuschrist.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-14:22:21.030 4564f Recovering log #72
+2020/08/03-14:22:21.030 4564f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.churchofjesuschrist.org_0.indexeddb.leveldb/000072.log 
+2020/08/10-14:20:47.581 1a03b Level-0 table #76: started
+2020/08/10-14:20:47.592 1a03b Level-0 table #76: 190 bytes OK
+2020/08/10-14:20:47.618 1a03b Delete type=0 #72
+2020/08/10-14:20:47.626 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/10-14:20:47.626 1a03b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 62 : 1
+2020/08/10-14:20:47.626 1a03b Compacting 1@1 + 1@2 files
+2020/08/10-14:20:47.636 1a03b Generated table #77@1: 22 keys, 542 bytes
+2020/08/10-14:20:47.636 1a03b Compacted 1@1 + 1@2 files => 542 bytes
+2020/08/10-14:20:47.666 1a03b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/10-14:20:47.667 1a03b Delete type=2 #76
+2020/08/10-14:20:47.667 1a03b Delete type=2 #70
+2020/08/10-14:20:47.685 1a03b Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 62 : 1 .. (end); will stop at (end)

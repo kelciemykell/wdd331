@@ -1,0 +1,5 @@
+2020/09/22-13:39:18.267 293d7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.tomsguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-13:54:27.208 b51b Level-0 table #5: started
+2020/09/22-13:54:27.234 b51b Level-0 table #5: 5932 bytes OK
+2020/09/22-13:54:27.264 b51b Delete type=0 #3
+2020/09/22-13:54:27.266 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

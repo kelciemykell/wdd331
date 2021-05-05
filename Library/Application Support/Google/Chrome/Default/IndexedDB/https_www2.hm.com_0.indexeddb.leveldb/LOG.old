@@ -1,0 +1,8 @@
+2020/11/10-12:46:07.310 2873b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www2.hm.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/10-12:46:07.311 2873b Recovering log #67
+2020/11/10-12:46:07.311 2873b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www2.hm.com_0.indexeddb.leveldb/000067.log 
+2020/11/10-12:52:20.988 37d97 Level-0 table #71: started
+2020/11/10-12:52:20.988 37d97 Level-0 table #71: 0 bytes OK
+2020/11/10-12:52:21.017 37d97 Delete type=0 #67
+2020/11/10-12:52:21.018 37d97 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/10-12:52:21.018 37d97 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

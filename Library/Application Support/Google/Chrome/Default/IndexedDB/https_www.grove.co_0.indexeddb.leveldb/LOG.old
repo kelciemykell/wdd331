@@ -1,0 +1,37 @@
+2020/08/25-12:31:47.445 4405b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.grove.co_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/25-12:31:47.445 4405b Recovering log #6
+2020/08/25-12:31:47.445 4405b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.grove.co_0.indexeddb.leveldb/000006.log 
+2020/08/25-12:31:51.484 1e1b Level-0 table #11: started
+2020/08/25-12:31:51.515 1e1b Level-0 table #11: 596 bytes OK
+2020/08/25-12:31:51.538 1e1b Delete type=0 #6
+2020/08/25-12:31:51.541 1e1b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/25-12:31:51.542 1e1b Level-0 table #13: started
+2020/08/25-12:31:51.552 1e1b Level-0 table #13: 478 bytes OK
+2020/08/25-12:31:51.578 1e1b Delete type=0 #10
+2020/08/25-12:31:51.581 1e1b Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 58 : 0
+2020/08/25-12:31:51.581 1e1b Compacting 1@0 + 1@1 files
+2020/08/25-12:31:51.589 1e1b Generated table #14@0: 4 keys, 259 bytes
+2020/08/25-12:31:51.589 1e1b Compacted 1@0 + 1@1 files => 259 bytes
+2020/08/25-12:31:51.610 1e1b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/25-12:31:51.610 1e1b Delete type=2 #13
+2020/08/25-12:31:51.611 1e1b Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 58 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/25-12:31:53.498 1e1b Level-0 table #16: started
+2020/08/25-12:31:53.511 1e1b Level-0 table #16: 218 bytes OK
+2020/08/25-12:31:53.532 1e1b Delete type=0 #12
+2020/08/25-12:31:53.532 1e1b Delete type=2 #11
+2020/08/25-12:31:53.533 1e1b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 59 : 0
+2020/08/25-12:31:53.533 1e1b Compacting 1@0 + 1@1 files
+2020/08/25-12:31:53.543 1e1b Generated table #17@0: 2 keys, 196 bytes
+2020/08/25-12:31:53.543 1e1b Compacted 1@0 + 1@1 files => 196 bytes
+2020/08/25-12:31:53.560 1e1b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/25-12:31:53.560 1e1b Delete type=2 #14
+2020/08/25-12:31:53.561 1e1b Delete type=2 #16
+2020/08/25-12:31:53.561 1e1b Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 59 : 0 .. (end); will stop at (end)
+2020/08/25-12:31:53.561 1e1b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 52 : 0
+2020/08/25-12:31:53.561 1e1b Compacting 1@1 + 1@2 files
+2020/08/25-12:31:53.573 1e1b Generated table #18@1: 4 keys, 221 bytes
+2020/08/25-12:31:53.573 1e1b Compacted 1@1 + 1@2 files => 221 bytes
+2020/08/25-12:31:53.596 1e1b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/25-12:31:53.597 1e1b Delete type=2 #17
+2020/08/25-12:31:53.598 1e1b Delete type=2 #8
+2020/08/25-12:31:53.598 1e1b Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 52 : 0 .. (end); will stop at (end)

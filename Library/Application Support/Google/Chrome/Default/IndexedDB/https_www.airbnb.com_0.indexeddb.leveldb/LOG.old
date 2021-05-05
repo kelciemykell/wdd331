@@ -1,0 +1,15 @@
+2020/07/09-11:57:23.187 589af Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/09-11:57:23.188 589af Recovering log #15
+2020/07/09-11:57:23.188 589af Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/000015.log 
+2020/07/09-11:57:55.313 e567 Level-0 table #19: started
+2020/07/09-11:57:55.326 e567 Level-0 table #19: 190 bytes OK
+2020/07/09-11:57:55.352 e567 Delete type=0 #15
+2020/07/09-11:57:55.353 e567 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/09-11:57:55.354 e567 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 1177 : 1
+2020/07/09-11:57:55.354 e567 Compacting 1@1 + 1@2 files
+2020/07/09-11:57:55.365 e567 Generated table #20@1: 88 keys, 25365 bytes
+2020/07/09-11:57:55.365 e567 Compacted 1@1 + 1@2 files => 25365 bytes
+2020/07/09-11:57:55.393 e567 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/09-11:57:55.393 e567 Delete type=2 #13
+2020/07/09-11:57:55.395 e567 Delete type=2 #19
+2020/07/09-11:57:55.397 e567 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 1177 : 1 .. (end); will stop at (end)

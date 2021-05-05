@@ -1,0 +1,15 @@
+2021/03/15-10:46:38.743 2f063 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/15-10:46:38.748 2f063 Recovering log #45
+2021/03/15-10:46:38.748 2f063 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000045.log 
+2021/03/16-14:21:02.650 3d653 Level-0 table #50: started
+2021/03/16-14:21:02.663 3d653 Level-0 table #50: 861 bytes OK
+2021/03/16-14:21:02.687 3d653 Delete type=0 #45
+2021/03/16-14:21:02.692 3d653 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/16-14:21:02.696 2e41f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x03\x00\xb0\xdd\xd6\x9f\x80wB\x00\x017\x00i\x00n\x00n\x00e\x00r\x00t\x00u\x00b\x00e\x00_\x00s\x00t\x00u\x00d\x00i\x00o\x00:\x001\x006\x006\x002\x00A\x000\x00E\x000\x00-\x009\x00F\x006\x001\x00-\x004\x00E\x006\x003\x00-\x009\x00A\x000\x004\x00-\x009\x007\x005\x00F\x006\x00B\x000\x002\x007\x005\x00F\x000\x00:\x000' @ 326 : 0
+2021/03/16-14:21:02.696 2e41f Compacting 1@1 + 1@2 files
+2021/03/16-14:21:02.709 2e41f Generated table #51@1: 39 keys, 899 bytes
+2021/03/16-14:21:02.709 2e41f Compacted 1@1 + 1@2 files => 899 bytes
+2021/03/16-14:21:02.745 2e41f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/16-14:21:02.747 2e41f Delete type=2 #50
+2021/03/16-14:21:02.747 2e41f Delete type=2 #47
+2021/03/16-14:21:02.754 2e41f Manual compaction at level-1 from '\x00\x03\x01\x1f\x03\x00\xb0\xdd\xd6\x9f\x80wB\x00\x017\x00i\x00n\x00n\x00e\x00r\x00t\x00u\x00b\x00e\x00_\x00s\x00t\x00u\x00d\x00i\x00o\x00:\x001\x006\x006\x002\x00A\x000\x00E\x000\x00-\x009\x00F\x006\x001\x00-\x004\x00E\x006\x003\x00-\x009\x00A\x000\x004\x00-\x009\x007\x005\x00F\x006\x00B\x000\x002\x007\x005\x00F\x000\x00:\x000' @ 326 : 0 .. (end); will stop at (end)

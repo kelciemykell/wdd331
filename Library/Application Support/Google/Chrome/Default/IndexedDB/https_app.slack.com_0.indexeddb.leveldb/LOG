@@ -1,0 +1,5 @@
+2021/01/04-12:20:50.418 2da73 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/05-11:19:41.911 4265b Level-0 table #5: started
+2021/01/05-11:19:41.924 4265b Level-0 table #5: 2684 bytes OK
+2021/01/05-11:19:41.951 4265b Delete type=0 #3
+2021/01/05-11:19:41.953 4265b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/02/02-11:52:26.800 23403 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/02-11:52:26.800 23403 Recovering log #19
+2021/02/02-11:52:26.800 23403 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000019.log 
+2021/02/02-12:01:40.817 2b43f Level-0 table #24: started
+2021/02/02-12:01:40.828 2b43f Level-0 table #24: 594 bytes OK
+2021/02/02-12:01:40.856 2b43f Delete type=0 #19
+2021/02/02-12:01:40.858 2b43f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/02-12:01:40.858 2b43f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 135 : 1
+2021/02/02-12:01:40.858 2b43f Compacting 1@1 + 1@2 files
+2021/02/02-12:01:40.871 2b43f Generated table #25@1: 18 keys, 531 bytes
+2021/02/02-12:01:40.871 2b43f Compacted 1@1 + 1@2 files => 531 bytes
+2021/02/02-12:01:40.897 2b43f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/02-12:01:40.898 2b43f Delete type=2 #21
+2021/02/02-12:01:40.899 2b43f Delete type=2 #24
+2021/02/02-12:01:40.900 2b43f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 135 : 1 .. (end); will stop at (end)

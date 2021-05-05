@@ -1,0 +1,5 @@
+2020/10/14-15:55:42.379 2d50f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.verywellfamily.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/14-15:56:57.268 15a13 Level-0 table #5: started
+2020/10/14-15:56:57.282 15a13 Level-0 table #5: 610278 bytes OK
+2020/10/14-15:56:57.305 15a13 Delete type=0 #3
+2020/10/14-15:56:57.307 15a13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

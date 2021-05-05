@@ -1,0 +1,15 @@
+2020/11/19-11:37:34.148 2ae67 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.creately.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-11:37:34.149 2ae67 Recovering log #4
+2020/11/19-11:37:34.149 2ae67 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.creately.com_0.indexeddb.leveldb/000004.log 
+2020/11/19-12:00:21.298 2a743 Level-0 table #8: started
+2020/11/19-12:00:21.319 2a743 Level-0 table #8: 634167 bytes OK
+2020/11/19-12:00:21.345 2a743 Delete type=0 #4
+2020/11/19-12:00:21.346 2a743 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-12:00:21.346 2a743 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 959 : 1
+2020/11/19-12:00:21.346 2a743 Compacting 1@1 + 1@2 files
+2020/11/19-12:00:21.363 2a743 Generated table #9@1: 794 keys, 191198 bytes
+2020/11/19-12:00:21.363 2a743 Compacted 1@1 + 1@2 files => 191198 bytes
+2020/11/19-12:00:21.384 2a743 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/19-12:00:21.385 2a743 Delete type=2 #5
+2020/11/19-12:00:21.385 2a743 Delete type=2 #8
+2020/11/19-12:00:21.386 2a743 Manual compaction at level-1 from '\x00\x0c\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 959 : 1 .. (end); will stop at (end)

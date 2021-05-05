@@ -1,0 +1,15 @@
+2020/10/29-09:06:30.758 32b3f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.stickermule.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/29-09:06:30.758 32b3f Recovering log #31
+2020/10/29-09:06:30.758 32b3f Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.stickermule.com_0.indexeddb.leveldb/000031.log 
+2020/10/29-09:16:54.121 28237 Level-0 table #36: started
+2020/10/29-09:16:54.134 28237 Level-0 table #36: 3317 bytes OK
+2020/10/29-09:16:54.163 28237 Delete type=0 #31
+2020/10/29-09:16:54.165 28237 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/29-09:16:54.165 28237 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 2087 : 1
+2020/10/29-09:16:54.165 28237 Compacting 1@1 + 1@2 files
+2020/10/29-09:16:54.175 28237 Generated table #37@1: 111 keys, 2384 bytes
+2020/10/29-09:16:54.175 28237 Compacted 1@1 + 1@2 files => 2384 bytes
+2020/10/29-09:16:54.201 28237 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-09:16:54.202 28237 Delete type=2 #36
+2020/10/29-09:16:54.203 28237 Delete type=2 #33
+2020/10/29-09:16:54.203 28237 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 2087 : 1 .. (end); will stop at (end)

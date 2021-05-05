@@ -1,0 +1,15 @@
+2020/12/03-13:18:45.442 3921b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-13:18:45.443 3921b Recovering log #778
+2020/12/03-13:18:45.443 3921b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000778.log 
+2020/12/03-13:18:48.436 379b3 Level-0 table #783: started
+2020/12/03-13:18:48.456 379b3 Level-0 table #783: 534 bytes OK
+2020/12/03-13:18:48.480 379b3 Delete type=0 #778
+2020/12/03-13:18:48.482 379b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-13:18:48.482 379b3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x90!\x8c\xa7bwB\x00\x01\x14\x00Z\x00G\x00Z\x009\x00N\x002\x00M\x003\x00W\x004\x009\x00B\x00G\x00B\x00Z\x00B\x00M\x00C\x00F\x00R' @ 6054 : 1
+2020/12/03-13:18:48.482 379b3 Compacting 1@1 + 1@2 files
+2020/12/03-13:18:48.499 379b3 Generated table #784@1: 40 keys, 1156 bytes
+2020/12/03-13:18:48.499 379b3 Compacted 1@1 + 1@2 files => 1156 bytes
+2020/12/03-13:18:48.522 379b3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/03-13:18:48.523 379b3 Delete type=2 #783
+2020/12/03-13:18:48.525 379b3 Delete type=2 #780
+2020/12/03-13:18:48.525 379b3 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x90!\x8c\xa7bwB\x00\x01\x14\x00Z\x00G\x00Z\x009\x00N\x002\x00M\x003\x00W\x004\x009\x00B\x00G\x00B\x00Z\x00B\x00M\x00C\x00F\x00R' @ 6054 : 1 .. (end); will stop at (end)

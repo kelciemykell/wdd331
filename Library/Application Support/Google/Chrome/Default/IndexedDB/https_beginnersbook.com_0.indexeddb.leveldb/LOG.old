@@ -1,0 +1,8 @@
+2020/12/10-09:23:23.957 37aa7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_beginnersbook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-09:23:23.958 37aa7 Recovering log #7
+2020/12/10-09:23:23.958 37aa7 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_beginnersbook.com_0.indexeddb.leveldb/000007.log 
+2020/12/10-09:24:02.919 3d34b Level-0 table #12: started
+2020/12/10-09:24:02.919 3d34b Level-0 table #12: 0 bytes OK
+2020/12/10-09:24:02.957 3d34b Delete type=0 #7
+2020/12/10-09:24:02.961 3d34b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/10-09:24:02.961 3d34b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

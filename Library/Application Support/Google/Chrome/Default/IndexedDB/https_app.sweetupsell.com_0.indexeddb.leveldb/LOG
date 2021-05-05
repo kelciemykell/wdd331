@@ -1,0 +1,5 @@
+2020/11/30-16:19:24.114 4a35f Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.sweetupsell.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-16:19:40.056 22187 Level-0 table #5: started
+2020/11/30-16:19:40.066 22187 Level-0 table #5: 880 bytes OK
+2020/11/30-16:19:40.091 22187 Delete type=0 #3
+2020/11/30-16:19:40.093 22187 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

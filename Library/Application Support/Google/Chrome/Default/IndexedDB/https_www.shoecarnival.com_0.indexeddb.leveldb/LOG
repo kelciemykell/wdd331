@@ -1,0 +1,17 @@
+2020/09/24-13:16:10.555 2757b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.shoecarnival.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-13:16:54.315 b51b Level-0 table #5: started
+2020/09/24-13:16:54.340 b51b Level-0 table #5: 550 bytes OK
+2020/09/24-13:16:54.366 b51b Delete type=0 #3
+2020/09/24-13:16:54.368 b51b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/24-13:16:56.331 b51b Level-0 table #7: started
+2020/09/24-13:16:56.345 b51b Level-0 table #7: 230 bytes OK
+2020/09/24-13:16:56.369 b51b Delete type=0 #4
+2020/09/24-13:16:56.371 b51b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/24-13:16:56.371 b51b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2020/09/24-13:16:56.371 b51b Compacting 1@1 + 1@2 files
+2020/09/24-13:16:56.383 b51b Generated table #8@1: 4 keys, 221 bytes
+2020/09/24-13:16:56.383 b51b Compacted 1@1 + 1@2 files => 221 bytes
+2020/09/24-13:16:56.412 b51b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/24-13:16:56.413 b51b Delete type=2 #7
+2020/09/24-13:16:56.414 b51b Delete type=2 #5
+2020/09/24-13:16:56.414 b51b Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

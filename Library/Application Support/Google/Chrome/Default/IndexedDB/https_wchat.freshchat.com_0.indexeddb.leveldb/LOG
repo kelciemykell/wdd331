@@ -1,0 +1,15 @@
+2020/08/12-13:40:53.891 53997 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-13:40:53.891 53997 Recovering log #4
+2020/08/12-13:40:53.892 53997 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/000004.log 
+2020/08/12-16:08:54.287 1a03b Level-0 table #8: started
+2020/08/12-16:08:54.306 1a03b Level-0 table #8: 105090 bytes OK
+2020/08/12-16:08:54.341 1a03b Delete type=0 #4
+2020/08/12-16:08:54.342 1a03b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/12-16:08:54.342 1a03b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x003\x003\x002\x003\x000\x000\x006\x000\x004\x007\x000\x002\x007\x007' @ 656 : 1
+2020/08/12-16:08:54.342 1a03b Compacting 1@1 + 1@2 files
+2020/08/12-16:08:54.357 1a03b Generated table #9@1: 28 keys, 11070 bytes
+2020/08/12-16:08:54.359 1a03b Compacted 1@1 + 1@2 files => 11070 bytes
+2020/08/12-16:08:54.404 1a03b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/12-16:08:54.404 1a03b Delete type=2 #5
+2020/08/12-16:08:54.407 1a03b Delete type=2 #8
+2020/08/12-16:08:54.408 1a03b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x003\x003\x002\x003\x000\x000\x006\x000\x004\x007\x000\x002\x007\x007' @ 656 : 1 .. (end); will stop at (end)

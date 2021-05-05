@@ -1,0 +1,8 @@
+2020/12/10-12:35:24.873 2bfd7 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_jane.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-12:35:24.880 2bfd7 Recovering log #59
+2020/12/10-12:35:24.880 2bfd7 Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_jane.com_0.indexeddb.leveldb/000059.log 
+2020/12/10-12:35:30.885 41293 Level-0 table #63: started
+2020/12/10-12:35:30.885 41293 Level-0 table #63: 0 bytes OK
+2020/12/10-12:35:30.915 41293 Delete type=0 #59
+2020/12/10-12:35:30.918 41293 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/10-12:35:30.919 41293 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

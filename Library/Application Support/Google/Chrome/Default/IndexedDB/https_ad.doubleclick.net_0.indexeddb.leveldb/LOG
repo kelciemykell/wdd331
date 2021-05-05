@@ -1,0 +1,8 @@
+2020/09/08-10:22:10.082 36f7b Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/08-10:22:10.082 36f7b Recovering log #10
+2020/09/08-10:22:10.082 36f7b Reusing old log /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb/000010.log 
+2020/09/08-10:22:13.981 2ce0b Level-0 table #14: started
+2020/09/08-10:22:13.981 2ce0b Level-0 table #14: 0 bytes OK
+2020/09/08-10:22:14.019 2ce0b Delete type=0 #10
+2020/09/08-10:22:14.024 2ce0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/08-10:22:14.024 2ce0b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

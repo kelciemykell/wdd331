@@ -1,0 +1,6 @@
+2021/04/28-14:35:01.842 33957 Creating DB /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.smashingmagazine.com_0.indexeddb.leveldb since it was missing.
+2021/04/28-14:35:01.883 33957 Reusing MANIFEST /Users/kelcie/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.smashingmagazine.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/28-14:35:40.927 33957 Level-0 table #5: started
+2021/04/28-14:35:40.939 33957 Level-0 table #5: 11171 bytes OK
+2021/04/28-14:35:40.961 33957 Delete type=0 #3
+2021/04/28-14:35:40.963 33957 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
